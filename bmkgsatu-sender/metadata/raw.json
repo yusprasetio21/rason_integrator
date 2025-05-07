@@ -1,0 +1,1184 @@
+{
+    "items": [
+        {
+            "path": "/4/30/439/161",
+            "station_name": "Stasiun Meteorologi Karel Sadsuitubun",
+            "station_icao": "WAPF",
+            "station_wmo_id": 97810,
+            "@name": "161",
+            "@uid": "b91|103|2e1|79f|40892ae14e4e4af59637e5bc63e0ae09",
+            "@id": "https://backends/db/bmkgsatu/4/30/439/161"
+        },
+        {
+            "path": "/4/30/440/164",
+            "station_name": "Stasiun Meteorologi Mathilda Batlayeri",
+            "station_icao": "WAPS",
+            "station_wmo_id": 97900,
+            "@name": "164",
+            "@uid": "b91|103|2e1|a52|eb49c8e79e214aa29ea2cb0d14d473e3",
+            "@id": "https://backends/db/bmkgsatu/4/30/440/164"
+        },
+        {
+            "path": "/4/30/438/153",
+            "station_name": "Stasiun Meteorologi Amahai",
+            "station_icao": "WAPA",
+            "station_wmo_id": 97722,
+            "@name": "153",
+            "@uid": "b91|103|2e1|b10|425155e0d07a41589a22a1ebb6ad6663",
+            "@id": "https://backends/db/bmkgsatu/4/30/438/153"
+        },
+        {
+            "path": "/4/30/438/159",
+            "station_name": "Stasiun Meteorologi Bandaneira",
+            "station_icao": "WAPC",
+            "station_wmo_id": 97790,
+            "@name": "159",
+            "@uid": "b91|103|2e1|b10|5126d94c2ec54a679dd6112a594b7777",
+            "@id": "https://backends/db/bmkgsatu/4/30/438/159"
+        },
+        {
+            "path": "/4/30/441/152",
+            "station_name": "Stasiun Meteorologi Namlea",
+            "station_icao": "WAPR",
+            "station_wmo_id": 97700,
+            "@name": "152",
+            "@uid": "b91|103|2e1|da2|833d39370cce47a2bf45ae11b0be40ed",
+            "@id": "https://backends/db/bmkgsatu/4/30/441/152"
+        },
+        {
+            "path": "/4/30/447/154",
+            "station_name": "Stasiun Meteorologi Pattimura",
+            "station_icao": "WAPP",
+            "station_wmo_id": 97724,
+            "@name": "154",
+            "@uid": "b91|103|2e1|e67|2e1c70d714314783af8cfdc6ae7c9ddc",
+            "@id": "https://backends/db/bmkgsatu/4/30/447/154"
+        },
+        {
+            "path": "/4/25/390/100",
+            "station_name": "Stasiun Meteorologi Mutiara Sis-Al Jufri",
+            "station_icao": "WAFF",
+            "station_wmo_id": 97072,
+            "@name": "100",
+            "@uid": "b91|103|45d|47f|e0e50cb6e13f424bb8a59b57d04ac032",
+            "@id": "https://backends/db/bmkgsatu/4/25/390/100"
+        },
+        {
+            "path": "/4/25/386/12329",
+            "station_name": "Stasiun Meteorologi Syukuran Aminudin Amir",
+            "station_icao": "WAFW",
+            "station_wmo_id": 97086,
+            "@name": "12329",
+            "@uid": "b91|103|45d|83c|bb6e01e874034376bb49791e7f4d26c8",
+            "@id": "https://backends/db/bmkgsatu/4/25/386/12329"
+        },
+        {
+            "path": "/4/25/383/98",
+            "station_name": "Stasiun Meteorologi Sultan Bantilan",
+            "station_icao": "WAFL",
+            "station_wmo_id": 97028,
+            "@name": "98",
+            "@uid": "b91|103|45d|877|9121dbb67ee04fc09b74ab995a2cd8e8",
+            "@id": "https://backends/db/bmkgsatu/4/25/383/98"
+        },
+        {
+            "path": "/4/25/381/103",
+            "station_name": "Stasiun Meteorologi Kasiguncu",
+            "station_icao": "WAFP",
+            "station_wmo_id": 97096,
+            "@name": "103",
+            "@uid": "b91|103|45d|a69|d93518e3ed454060a73d46390c31b165",
+            "@id": "https://backends/db/bmkgsatu/4/25/381/103"
+        },
+        {
+            "path": "/4/24/370/95",
+            "station_name": "Stasiun Klimatologi Sulawesi Utara",
+            "station_icao": "",
+            "station_wmo_id": 97012,
+            "@name": "95",
+            "@uid": "b91|103|83a|18e|25b463c50c354c0f954926b2a021849d",
+            "@id": "https://backends/db/bmkgsatu/4/24/370/95"
+        },
+        {
+            "path": "/4/24/367/94",
+            "station_name": "Stasiun Meteorologi Naha",
+            "station_icao": "WAMH",
+            "station_wmo_id": 97008,
+            "@name": "94",
+            "@uid": "b91|103|83a|94d|077aca762650427aa56c9e1a3e04b309",
+            "@id": "https://backends/db/bmkgsatu/4/24/367/94"
+        },
+        {
+            "path": "/4/24/376/96",
+            "station_name": "Stasiun Meteorologi Sam Ratulangi",
+            "station_icao": "WAMM",
+            "station_wmo_id": 97014,
+            "@name": "96",
+            "@uid": "b91|103|83a|f5f|8e6dbfe1d0134c8286f97b08687d6177",
+            "@id": "https://backends/db/bmkgsatu/4/24/376/96"
+        },
+        {
+            "path": "/4/28/427/99",
+            "station_name": "Stasiun Meteorologi Djalaluddin",
+            "station_icao": "WAMG",
+            "station_wmo_id": 97048,
+            "@name": "99",
+            "@uid": "b91|103|84b|49b|901320017320427c80b4e04bb8efaed1",
+            "@id": "https://backends/db/bmkgsatu/4/28/427/99"
+        },
+        {
+            "path": "/4/27/426/114",
+            "station_name": "Stasiun Meteorologi Beto Ambari",
+            "station_icao": "WAWB",
+            "station_wmo_id": 97192,
+            "@name": "114",
+            "@uid": "b91|103|aa5|65b|1e250622c4f044f3a34dcd68e1fb1583",
+            "@id": "https://backends/db/bmkgsatu/4/27/426/114"
+        },
+        {
+            "path": "/4/27/425/109",
+            "station_name": "Stasiun Geofisika Kendari",
+            "station_icao": "WAWW",
+            "station_wmo_id": 97148,
+            "@name": "109",
+            "@uid": "b91|103|aa5|cdb|ac1319ec1a4048409fda9cdedc583e83",
+            "@id": "https://backends/db/bmkgsatu/4/27/425/109"
+        },
+        {
+            "path": "/4/27/415/107",
+            "station_name": "Stasiun Meteorologi Sangia Ni Bandera",
+            "station_icao": "WAWP",
+            "station_wmo_id": 97142,
+            "@name": "107",
+            "@uid": "b91|103|aa5|e28|204d8dd5039f4a388d801bf11e8f4dcb",
+            "@id": "https://backends/db/bmkgsatu/4/27/415/107"
+        },
+        {
+            "path": "/4/31/455/12345",
+            "station_name": "LEOWATIMENA TNIAU",
+            "station_icao": "WAEW",
+            "station_wmo_id": 97404,
+            "@name": "12345",
+            "@uid": "b91|103|dd0|2d2|89a45bbd3a85476a94b470c66f965061",
+            "@id": "https://backends/db/bmkgsatu/4/31/455/12345"
+        },
+        {
+            "path": "/4/31/452/138",
+            "station_name": "Stasiun Meteorologi Oesman Sadik",
+            "station_icao": "WAEL",
+            "station_wmo_id": 97460,
+            "@name": "138",
+            "@uid": "b91|103|dd0|3ab|4146efb85d044ea0ae29351fb781fa6c",
+            "@id": "https://backends/db/bmkgsatu/4/31/452/138"
+        },
+        {
+            "path": "/4/31/451/12691",
+            "station_name": "Pos Meteorologi Kao",
+            "station_icao": "WAEK",
+            "station_wmo_id": 97410,
+            "@name": "12691",
+            "@uid": "b91|103|dd0|970|7dc3e663ada24201b43428c5164f0175",
+            "@id": "https://backends/db/bmkgsatu/4/31/451/12691"
+        },
+        {
+            "path": "/4/31/451/135",
+            "station_name": "Stasiun Meteorologi Gamar Malamo",
+            "station_icao": "WAEG",
+            "station_wmo_id": 97406,
+            "@name": "135",
+            "@uid": "b91|103|dd0|970|ecc66e4dde8d4d0d95f4f4728dda4b5f",
+            "@id": "https://backends/db/bmkgsatu/4/31/451/135"
+        },
+        {
+            "path": "/4/31/453/144",
+            "station_name": "Stasiun Meteorologi Emalamo",
+            "station_icao": "WAES",
+            "station_wmo_id": 97600,
+            "@name": "144",
+            "@uid": "b91|103|dd0|ce5|4758d2e11ff04e74b4ec577ba7a5d383",
+            "@id": "https://backends/db/bmkgsatu/4/31/453/144"
+        },
+        {
+            "path": "/4/31/456/136",
+            "station_name": "Stasiun Meteorologi Sultan Babullah",
+            "station_icao": "WAEE",
+            "station_wmo_id": 97430,
+            "@name": "136",
+            "@uid": "b91|103|dd0|ee8|86bbcd4e57f14d3f8593463f1c9cc23c",
+            "@id": "https://backends/db/bmkgsatu/4/31/456/136"
+        },
+        {
+            "path": "/4/26/399/110",
+            "station_name": "Stasiun Meteorologi Sultan Hasanuddin",
+            "station_icao": "WAAA",
+            "station_wmo_id": 97180,
+            "@name": "110",
+            "@uid": "b91|103|f0a|138|1aee89e955d547ffba1e63adcdc6053e",
+            "@id": "https://backends/db/bmkgsatu/4/26/399/110"
+        },
+        {
+            "path": "/4/26/408/105",
+            "station_name": "Stasiun Meteorologi Toraja",
+            "station_icao": "WAFB",
+            "station_wmo_id": 97124,
+            "@name": "105",
+            "@uid": "b91|103|f0a|1c1|82e744fc5c3e45f8b85da1e9ee234578",
+            "@id": "https://backends/db/bmkgsatu/4/26/408/105"
+        },
+        {
+            "path": "/4/26/409/106",
+            "station_name": "Stasiun Meteorologi Andi Jemma",
+            "station_icao": "WAFM",
+            "station_wmo_id": 97126,
+            "@name": "106",
+            "@uid": "b91|103|f0a|7e5|abbd7f37f5a24586aeaf598d01bfe68c",
+            "@id": "https://backends/db/bmkgsatu/4/26/409/106"
+        },
+        {
+            "path": "/4/29/434/12321",
+            "station_name": "Stasiun Meteorologi Tampa Padang",
+            "station_icao": "WAFJ",
+            "station_wmo_id": 97116,
+            "@name": "12321",
+            "@uid": "b91|103|f2f|0e7|f7db9f08db65489999e5288ecd8685ac",
+            "@id": "https://backends/db/bmkgsatu/4/29/434/12321"
+        },
+        {
+            "path": "/1/1/20/1",
+            "station_name": "Stasiun Meteorologi Maimun Saleh",
+            "station_icao": "WITN",
+            "station_wmo_id": 96001,
+            "@name": "1",
+            "@uid": "b91|172|1da|085|e47948c6a89c4c9993f39e766ccc3d7d",
+            "@id": "https://backends/db/bmkgsatu/1/1/20/1"
+        },
+        {
+            "path": "/1/1/6/3",
+            "station_name": "Stasiun Meteorologi Sultan Iskandar Muda",
+            "station_icao": "WITT",
+            "station_wmo_id": 96011,
+            "@name": "3",
+            "@uid": "b91|172|1da|49c|114c343a3ffd4894abf93ac6c2bd3c61",
+            "@id": "https://backends/db/bmkgsatu/1/1/6/3"
+        },
+        {
+            "path": "/1/1/6/6",
+            "station_name": "Stasiun Klimatologi Aceh",
+            "station_icao": "",
+            "station_wmo_id": 96017,
+            "@name": "6",
+            "@uid": "b91|172|1da|49c|e56806cfe5c347d9abdd766b6f6323be",
+            "@id": "https://backends/db/bmkgsatu/1/1/6/6"
+        },
+        {
+            "path": "/1/1/15/5",
+            "station_name": "Stasiun Meteorologi Cut Nyak Dhien Nagan Raya",
+            "station_icao": "WITC",
+            "station_wmo_id": 96015,
+            "@name": "5",
+            "@uid": "b91|172|1da|4d2|6e0013a8c0a1440aaabcc52676ab4d78",
+            "@id": "https://backends/db/bmkgsatu/1/1/15/5"
+        },
+        {
+            "path": "/1/1/8/2",
+            "station_name": "Stasiun Meteorologi Malikussaleh",
+            "station_icao": "WIMA",
+            "station_wmo_id": 96009,
+            "@name": "2",
+            "@uid": "b91|172|1da|e0f|a0c9f83b8e8e4586878f585edfea9ef8",
+            "@id": "https://backends/db/bmkgsatu/1/1/8/2"
+        },
+        {
+            "path": "/1/3/61/23",
+            "station_name": "Stasiun Meteorologi Minangkabau",
+            "station_icao": "WIEE",
+            "station_wmo_id": 96163,
+            "@name": "23",
+            "@uid": "b91|172|31a|ccf|32cc4cfaf39b40fd9739c27d502e7b8a",
+            "@id": "https://backends/db/bmkgsatu/1/3/61/23"
+        },
+        {
+            "path": "/1/4/86/19",
+            "station_name": "Stasiun Meteorologi Sultan Syarif Kasim II",
+            "station_icao": "WIBB",
+            "station_wmo_id": 96109,
+            "@name": "19",
+            "@uid": "b91|172|621|57b|03e69aa21955474f9735a237e5b29b5b",
+            "@id": "https://backends/db/bmkgsatu/1/4/86/19"
+        },
+        {
+            "path": "/1/4/77/26",
+            "station_name": "Stasiun Meteorologi Japura",
+            "station_icao": "WIBJ",
+            "station_wmo_id": 96171,
+            "@name": "26",
+            "@uid": "b91|172|621|9ba|d9cfc9ffa082462fb93abf6c1cc0edb7",
+            "@id": "https://backends/db/bmkgsatu/1/4/77/26"
+        },
+        {
+            "path": "/1/4/76/7904",
+            "station_name": "Stasiun Klimatologi Riau",
+            "station_icao": "",
+            "station_wmo_id": 96107,
+            "@name": "7904",
+            "@uid": "b91|172|621|fb3|6eba01fc30974c66be99b2c87d7f570d",
+            "@id": "https://backends/db/bmkgsatu/1/4/76/7904"
+        },
+        {
+            "path": "/1/2/25/11261",
+            "station_name": "Stasiun Meteorologi Silangit",
+            "station_icao": "WIMN",
+            "station_wmo_id": 96043,
+            "@name": "11261",
+            "@uid": "b91|172|632|24d|2502f08ef56b46dd92268736cec97cda",
+            "@id": "https://backends/db/bmkgsatu/1/2/25/11261"
+        },
+        {
+            "path": "/1/2/30/9",
+            "station_name": "Stasiun Meteorologi Kualanamu",
+            "station_icao": "WIMM",
+            "station_wmo_id": 96035,
+            "@name": "9",
+            "@uid": "b91|172|632|356|418bc82147934eeb869ebbc8d0454f98",
+            "@id": "https://backends/db/bmkgsatu/1/2/30/9"
+        },
+        {
+            "path": "/1/2/27/14",
+            "station_name": "Stasiun Meteorologi Binaka",
+            "station_icao": "WIMB",
+            "station_wmo_id": 96075,
+            "@name": "14",
+            "@uid": "b91|172|632|4f5|b1c669f44162477ca7bf0ceffb80b9fb",
+            "@id": "https://backends/db/bmkgsatu/1/2/27/14"
+        },
+        {
+            "path": "/1/2/43/12",
+            "station_name": "Stasiun Meteorologi Aek Godang",
+            "station_icao": "WIME",
+            "station_wmo_id": 96071,
+            "@name": "12",
+            "@uid": "b91|172|632|8c2|3b2c97f258ef402793707f219c503624",
+            "@id": "https://backends/db/bmkgsatu/1/2/43/12"
+        },
+        {
+            "path": "/1/2/24/13",
+            "station_name": "Stasiun Meteorologi FL Tobing",
+            "station_icao": "WIMS",
+            "station_wmo_id": 96073,
+            "@name": "13",
+            "@uid": "b91|172|632|efd|47135f35a22e4ff3b01cf710c9d67f93",
+            "@id": "https://backends/db/bmkgsatu/1/2/24/13"
+        },
+        {
+            "path": "/1/10/150/16",
+            "station_name": "Stasiun Meteorologi Hang Nadim",
+            "station_icao": "WIDD",
+            "station_wmo_id": 96087,
+            "@name": "16",
+            "@uid": "b91|172|794|028|e32fd063936b4bf3a534fb29291902ec",
+            "@id": "https://backends/db/bmkgsatu/1/10/150/16"
+        },
+        {
+            "path": "/1/10/149/20",
+            "station_name": "Stasiun Meteorologi Tarempa",
+            "station_icao": "WIDM",
+            "station_wmo_id": 96145,
+            "@name": "20",
+            "@uid": "b91|172|794|02a|49e7b377b3d148c199045c3b3b661013",
+            "@id": "https://backends/db/bmkgsatu/1/10/149/20"
+        },
+        {
+            "path": "/1/10/146/17",
+            "station_name": "Stasiun Meteorologi Raja Haji Abdullah",
+            "station_icao": "WIDT",
+            "station_wmo_id": 96089,
+            "@name": "17",
+            "@uid": "b91|172|794|46d|6b4c770e0ba44924943a53c463b06266",
+            "@id": "https://backends/db/bmkgsatu/1/10/146/17"
+        },
+        {
+            "path": "/1/10/148/27",
+            "station_name": "Stasiun Meteorologi Dabo",
+            "station_icao": "WIDS",
+            "station_wmo_id": 96179,
+            "@name": "27",
+            "@uid": "b91|172|794|610|048beba1d7c94a87b2d642ab43e2aaf2",
+            "@id": "https://backends/db/bmkgsatu/1/10/148/27"
+        },
+        {
+            "path": "/1/10/151/18",
+            "station_name": "Stasiun Meteorologi Raja Haji Fisabilillah",
+            "station_icao": "WIDN",
+            "station_wmo_id": 96091,
+            "@name": "18",
+            "@uid": "b91|172|794|92f|fd3a745559704bf0afc6a7c9e7bebd24",
+            "@id": "https://backends/db/bmkgsatu/1/10/151/18"
+        },
+        {
+            "path": "/1/10/147/21",
+            "station_name": "Stasiun Meteorologi Maritim Natuna",
+            "station_icao": "WION",
+            "station_wmo_id": 96147,
+            "@name": "21",
+            "@uid": "b91|172|794|cfa|146d44d057b543bca84309b2f0cf3930",
+            "@id": "https://backends/db/bmkgsatu/1/10/147/21"
+        },
+        {
+            "path": "/5/32/460/148",
+            "station_name": "Stasiun Meteorologi Sentani",
+            "station_icao": "WAJJ",
+            "station_wmo_id": 97690,
+            "@name": "148",
+            "@uid": "b91|dad|d09|152|a1e726b1e29f4e84b7394b1bb0e2ee25",
+            "@id": "https://backends/db/bmkgsatu/5/32/460/148"
+        },
+        {
+            "path": "/5/32/458/166",
+            "station_name": "Stasiun Meteorologi Mopah",
+            "station_icao": "WAKK",
+            "station_wmo_id": 97980,
+            "@name": "166",
+            "@uid": "b91|dad|d09|34a|852f10b6803642bca1b6c43660fc1870",
+            "@id": "https://backends/db/bmkgsatu/5/32/458/166"
+        },
+        {
+            "path": "/5/32/467/143",
+            "station_name": "Stasiun Meteorologi Mararena",
+            "station_icao": "WAJI",
+            "station_wmo_id": 97580,
+            "@name": "143",
+            "@uid": "b91|dad|d09|50b|4a6c189527ac42ceb0d2f0cac4f51e77",
+            "@id": "https://backends/db/bmkgsatu/5/32/467/143"
+        },
+        {
+            "path": "/5/32/462/142",
+            "station_name": "Stasiun Meteorologi Sudjarwo Tjondronegoro",
+            "station_icao": "WABO",
+            "station_wmo_id": 97570,
+            "@name": "142",
+            "@uid": "b91|dad|d09|801|0128b2e769d94e78a596aaeb925bca8a",
+            "@id": "https://backends/db/bmkgsatu/5/32/462/142"
+        },
+        {
+            "path": "/5/32/459/147",
+            "station_name": "Stasiun Meteorologi Wamena",
+            "station_icao": "WAVV",
+            "station_wmo_id": 97686,
+            "@name": "147",
+            "@uid": "b91|dad|d09|9d3|21996466d30b4cd4b5914553a3771b66",
+            "@id": "https://backends/db/bmkgsatu/5/32/459/147"
+        },
+        {
+            "path": "/5/32/466/160",
+            "station_name": "Stasiun Meteorologi Mozez Kilangin",
+            "station_icao": "WAYY",
+            "station_wmo_id": 97796,
+            "@name": "160",
+            "@uid": "b91|dad|d09|aa5|c551ec7da28b40cb92825abdec405cf9",
+            "@id": "https://backends/db/bmkgsatu/5/32/466/160"
+        },
+        {
+            "path": "/5/32/465/158",
+            "station_name": "Stasiun Meteorologi Enarotali",
+            "station_icao": "WAYE",
+            "station_wmo_id": 97780,
+            "@name": "158",
+            "@uid": "b91|dad|d09|b80|74fefaafffc74b8bb1d38952de189e2c",
+            "@id": "https://backends/db/bmkgsatu/5/32/465/158"
+        },
+        {
+            "path": "/5/32/461/146",
+            "station_name": "Stasiun Meteorologi Nabire",
+            "station_icao": "WABI",
+            "station_wmo_id": 97682,
+            "@name": "146",
+            "@uid": "b91|dad|d09|b81|c4c314b03bf049678b25618bcc50a3fd",
+            "@id": "https://backends/db/bmkgsatu/5/32/461/146"
+        },
+        {
+            "path": "/5/32/463/141",
+            "station_name": "Stasiun Meteorologi Frans Kaisiepo",
+            "station_icao": "WABB",
+            "station_wmo_id": 97560,
+            "@name": "141",
+            "@uid": "b91|dad|d09|d7f|aa5a268e6c8f43aa87ec884a7589c7e3",
+            "@id": "https://backends/db/bmkgsatu/5/32/463/141"
+        },
+        {
+            "path": "/5/32/473/163",
+            "station_name": "Stasiun Meteorologi Tanah Merah",
+            "station_icao": "WAKT",
+            "station_wmo_id": 97876,
+            "@name": "163",
+            "@uid": "b91|dad|d09|eb8|b0ed1be255ce4dbd85f93ec3f1603eb3",
+            "@id": "https://backends/db/bmkgsatu/5/32/473/163"
+        },
+        {
+            "path": "/5/33/488/140",
+            "station_name": "Stasiun Meteorologi Rendani",
+            "station_icao": "WAUU",
+            "station_wmo_id": 97530,
+            "@name": "140",
+            "@uid": "b91|dad|e82|13c|8802b70466c444b092b64831386a4b9e",
+            "@id": "https://backends/db/bmkgsatu/5/33/488/140"
+        },
+        {
+            "path": "/5/33/489/145",
+            "station_name": "Stasiun Meteorologi Torea",
+            "station_icao": "WASF",
+            "station_wmo_id": 97630,
+            "@name": "145",
+            "@uid": "b91|dad|e82|352|4ebae99e34004cd3a844a76ff746e032",
+            "@id": "https://backends/db/bmkgsatu/5/33/489/145"
+        },
+        {
+            "path": "/5/33/494/176",
+            "station_name": "Stasiun Meteorologi Utarom",
+            "station_icao": "WASK",
+            "station_wmo_id": 97760,
+            "@name": "176",
+            "@uid": "b91|dad|e82|4c1|eedb2a9457424c2c90e9373595c984ca",
+            "@id": "https://backends/db/bmkgsatu/5/33/494/176"
+        },
+        {
+            "path": "/5/33/497/139",
+            "station_name": "Stasiun Meteorologi Domine Eduard Osok",
+            "station_icao": "WASS",
+            "station_wmo_id": 97502,
+            "@name": "139",
+            "@uid": "b91|dad|e82|991|c1d91d51406d4f5199c387efadae7e1d",
+            "@id": "https://backends/db/bmkgsatu/5/33/497/139"
+        },
+        {
+            "path": "/2/14/219/12314",
+            "station_name": "Stasiun Meteorologi Yogyakarta",
+            "station_icao": "WAHI",
+            "station_wmo_id": 96859,
+            "@name": "12314",
+            "@uid": "b91|eda|348|0a4|132a92a5a760431c84c4da0bb401f4db",
+            "@id": "https://backends/db/bmkgsatu/2/14/219/12314"
+        },
+        {
+            "path": "/2/14/220/12340",
+            "station_name": "ADI SUTJIPTO TNIAU",
+            "station_icao": "WAHH",
+            "station_wmo_id": 96853,
+            "@name": "12340",
+            "@uid": "b91|eda|348|71c|d0f4c6174f8142579fe665db5f226610",
+            "@id": "https://backends/db/bmkgsatu/2/14/220/12340"
+        },
+        {
+            "path": "/2/14/222/83",
+            "station_name": "Stasiun Geofisika Sleman",
+            "station_icao": "WARY",
+            "station_wmo_id": 96855,
+            "@name": "83",
+            "@uid": "b91|eda|348|c7f|531768dbff704862a9907790a8226382",
+            "@id": "https://backends/db/bmkgsatu/2/14/222/83"
+        },
+        {
+            "path": "/2/11/157/10890",
+            "station_name": "Halim Perdana Kusuma Jakarta",
+            "station_icao": "WIHH",
+            "station_wmo_id": 0,
+            "@name": "10890",
+            "@uid": "b91|eda|47f|0b4|e118c7add1af490fa966402be22c6a7e",
+            "@id": "https://backends/db/bmkgsatu/2/11/157/10890"
+        },
+        {
+            "path": "/2/20/314/50",
+            "station_name": "Stasiun Meteorologi Tebelian",
+            "station_icao": "WIOS",
+            "station_wmo_id": 96559,
+            "@name": "50",
+            "@uid": "b91|eda|4c7|5e3|79f19ae29c984ff68e424bf9890c25e7",
+            "@id": "https://backends/db/bmkgsatu/2/20/314/50"
+        },
+        {
+            "path": "/2/20/319/49",
+            "station_name": "Stasiun Meteorologi Nangapinoh",
+            "station_icao": "WIOG",
+            "station_wmo_id": 96557,
+            "@name": "49",
+            "@uid": "b91|eda|4c7|7ef|5da3031ee3354834b17b58fc50d0cadb",
+            "@id": "https://backends/db/bmkgsatu/2/20/319/49"
+        },
+        {
+            "path": "/2/20/316/12333",
+            "station_name": "HARRY DADISUMANTRY TNIAU",
+            "station_icao": "WIOI",
+            "station_wmo_id": 96533,
+            "@name": "12333",
+            "@uid": "b91|eda|4c7|af5|021312e9ccdd47259292afaed36c072e",
+            "@id": "https://backends/db/bmkgsatu/2/20/316/12333"
+        },
+        {
+            "path": "/2/20/322/173",
+            "station_name": "Stasiun Meteorologi Maritim Pontianak",
+            "station_icao": "",
+            "station_wmo_id": 96585,
+            "@name": "173",
+            "@uid": "b91|eda|4c7|c99|92ea6b0a01ed4d9b9ae467fe124d3af6",
+            "@id": "https://backends/db/bmkgsatu/2/20/322/173"
+        },
+        {
+            "path": "/2/20/322/52",
+            "station_name": "Stasiun Meteorologi Supadio",
+            "station_icao": "WIOO",
+            "station_wmo_id": 96581,
+            "@name": "52",
+            "@uid": "b91|eda|4c7|c99|ab7d9feb831445a2afb55fbea92d52c2",
+            "@id": "https://backends/db/bmkgsatu/2/20/322/52"
+        },
+        {
+            "path": "/2/20/310/48",
+            "station_name": "Stasiun Meteorologi Paloh",
+            "station_icao": "WIOH",
+            "station_wmo_id": 96535,
+            "@name": "48",
+            "@uid": "b91|eda|4c7|cc3|998370436650477088e1e01e3683e4d1",
+            "@id": "https://backends/db/bmkgsatu/2/20/310/48"
+        },
+        {
+            "path": "/2/20/313/56",
+            "station_name": "Stasiun Meteorologi Rahadi Oesman",
+            "station_icao": "WIOK",
+            "station_wmo_id": 96615,
+            "@name": "56",
+            "@uid": "b91|eda|4c7|d45|2450a4709206493798b3c8f6de09b1a4",
+            "@id": "https://backends/db/bmkgsatu/2/20/313/56"
+        },
+        {
+            "path": "/2/20/315/51",
+            "station_name": "Stasiun Meteorologi Pangsuma",
+            "station_icao": "WIOP",
+            "station_wmo_id": 96565,
+            "@name": "51",
+            "@uid": "b91|eda|4c7|d84|130c4d70d0484e109fcf8960834a04a2",
+            "@id": "https://backends/db/bmkgsatu/2/20/315/51"
+        },
+        {
+            "path": "/2/6/110/32",
+            "station_name": "Stasiun Meteorologi Sultan Mahmud Badaruddin II",
+            "station_icao": "WIPP",
+            "station_wmo_id": 96221,
+            "@name": "32",
+            "@uid": "b91|eda|62e|6a2|9dc797d7af934ec7b43510a44ee06727",
+            "@id": "https://backends/db/bmkgsatu/2/6/110/32"
+        },
+        {
+            "path": "/2/16/266/73",
+            "station_name": "Stasiun Meteorologi Soekarno Hatta",
+            "station_icao": "WIII",
+            "station_wmo_id": 96749,
+            "@name": "73",
+            "@uid": "b91|eda|694|ae8|a66e7f5cf027468a9b374d7043b973c9",
+            "@id": "https://backends/db/bmkgsatu/2/16/266/73"
+        },
+        {
+            "path": "/2/16/264/69",
+            "station_name": "Stasiun Meteorologi Budiarto",
+            "station_icao": "WIRR",
+            "station_wmo_id": 96739,
+            "@name": "69",
+            "@uid": "b91|eda|694|cec|a88a7ea63667436b915295cdeefee453",
+            "@id": "https://backends/db/bmkgsatu/2/16/264/69"
+        },
+        {
+            "path": "/2/13/216/82",
+            "station_name": "Stasiun Meteorologi Ahmad Yani",
+            "station_icao": "WAHS",
+            "station_wmo_id": 96839,
+            "@name": "82",
+            "@uid": "b91|eda|6ba|5a3|a572ac1c19644762a378f3bf7ec9bc7b",
+            "@id": "https://backends/db/bmkgsatu/2/13/216/82"
+        },
+        {
+            "path": "/2/13/184/79",
+            "station_name": "Stasiun Meteorologi Tunggul Wulung",
+            "station_icao": "WAHL",
+            "station_wmo_id": 96805,
+            "@name": "79",
+            "@uid": "b91|eda|6ba|f07|704d3c527bf3467dba86cfc150ac0a03",
+            "@id": "https://backends/db/bmkgsatu/2/13/184/79"
+        },
+        {
+            "path": "/2/12/158/12335",
+            "station_name": "ATANG SANDJAJA TNIAU",
+            "station_icao": "WIHJ",
+            "station_wmo_id": 96755,
+            "@name": "12335",
+            "@uid": "b91|eda|791|07c|cb26ee5b63b3461386d8a176ade6497f",
+            "@id": "https://backends/db/bmkgsatu/2/12/158/12335"
+        },
+        {
+            "path": "/2/12/166/7744",
+            "station_name": "Pos Meteorologi Penggung",
+            "station_icao": "WICD",
+            "station_wmo_id": 96793,
+            "@name": "7744",
+            "@uid": "b91|eda|791|37f|0af43a2d6a0b41e4935faddfa6ec3a5c",
+            "@id": "https://backends/db/bmkgsatu/2/12/166/7744"
+        },
+        {
+            "path": "/2/12/177/12337",
+            "station_name": "HUSEIN SASTRA NEGARA TNIAU",
+            "station_icao": "WICC",
+            "station_wmo_id": 96781,
+            "@name": "12337",
+            "@uid": "b91|eda|791|5c9|da0db3e40a2948dd8addcad4f094fbb9",
+            "@id": "https://backends/db/bmkgsatu/2/12/177/12337"
+        },
+        {
+            "path": "/2/12/167/77",
+            "station_name": "Stasiun Meteorologi Kertajati",
+            "station_icao": "WICA",
+            "station_wmo_id": 96791,
+            "@name": "77",
+            "@uid": "b91|eda|791|6b7|50ffa4ac5c2f491882da909f2fdc0588",
+            "@id": "https://backends/db/bmkgsatu/2/12/167/77"
+        },
+        {
+            "path": "/2/9/141/7946",
+            "station_name": "Stasiun Klimatologi Bangka Belitung",
+            "station_icao": "",
+            "station_wmo_id": 96239,
+            "@name": "7946",
+            "@uid": "b91|eda|7e2|051|f2d126ac83a94a0681c7d51334f44ad4",
+            "@id": "https://backends/db/bmkgsatu/2/9/141/7946"
+        },
+        {
+            "path": "/2/9/139/36",
+            "station_name": "Stasiun Meteorologi H. AS. Hananjoeddin",
+            "station_icao": "WIKT",
+            "station_wmo_id": 96249,
+            "@name": "36",
+            "@uid": "b91|eda|7e2|69f|ce22142bfd9343f5961cad61e6813152",
+            "@id": "https://backends/db/bmkgsatu/2/9/139/36"
+        },
+        {
+            "path": "/2/9/144/34",
+            "station_name": "Stasiun Meteorologi Depati Amir",
+            "station_icao": "WIKK",
+            "station_wmo_id": 96237,
+            "@name": "34",
+            "@uid": "b91|eda|7e2|6f0|a1ff60715377402d83e2d410001badc5",
+            "@id": "https://backends/db/bmkgsatu/2/9/144/34"
+        },
+        {
+            "path": "/2/5/88/31",
+            "station_name": "Stasiun Meteorologi Depati Parbo",
+            "station_icao": "WIJI",
+            "station_wmo_id": 96207,
+            "@name": "31",
+            "@uid": "b91|eda|852|5a7|714bf1a973554868ba9b53c35bfcaba5",
+            "@id": "https://backends/db/bmkgsatu/2/5/88/31"
+        },
+        {
+            "path": "/2/5/97/29",
+            "station_name": "Stasiun Meteorologi Sultan Thaha",
+            "station_icao": "WIJJ",
+            "station_wmo_id": 96195,
+            "@name": "29",
+            "@uid": "b91|eda|852|ce9|ee9f74c6a0324469b6316cdc4da968d0",
+            "@id": "https://backends/db/bmkgsatu/2/5/97/29"
+        },
+        {
+            "path": "/2/8/124/42",
+            "station_name": "Stasiun Meteorologi Radin Inten II",
+            "station_icao": "WILL",
+            "station_wmo_id": 96295,
+            "@name": "42",
+            "@uid": "b91|eda|bb7|254|4885eeb98df84cc2a55f59740e2f7988",
+            "@id": "https://backends/db/bmkgsatu/2/8/124/42"
+        },
+        {
+            "path": "/2/7/123/37",
+            "station_name": "Stasiun Meteorologi Fatmawati Soekarno",
+            "station_icao": "WIGG",
+            "station_wmo_id": 96253,
+            "@name": "37",
+            "@uid": "b91|eda|e3e|800|301eaa07bd554bff8926e3d5dd6e0d88",
+            "@id": "https://backends/db/bmkgsatu/2/7/123/37"
+        },
+        {
+            "path": "/3/34/503/178",
+            "station_name": "Stasiun Meteorologi Tanjung Harapan",
+            "station_icao": "WAQD",
+            "station_wmo_id": 96525,
+            "@name": "178",
+            "@uid": "b91|f1b|0ac|386|cba86ae918124d958b2b9bceeb69d955",
+            "@id": "https://backends/db/bmkgsatu/3/34/503/178"
+        },
+        {
+            "path": "/3/34/507/46",
+            "station_name": "Stasiun Meteorologi Juwata",
+            "station_icao": "WAQQ",
+            "station_wmo_id": 96509,
+            "@name": "46",
+            "@uid": "b91|f1b|0ac|3ff|54c5291a5ef643468bf9d36545bffc47",
+            "@id": "https://backends/db/bmkgsatu/3/34/507/46"
+        },
+        {
+            "path": "/3/34/505/45",
+            "station_name": "Stasiun Meteorologi Nunukan",
+            "station_icao": "WAQA",
+            "station_wmo_id": 96503,
+            "@name": "45",
+            "@uid": "b91|f1b|0ac|43a|cb9ab9a3fa1645089fb1d1c18f4777a7",
+            "@id": "https://backends/db/bmkgsatu/3/34/505/45"
+        },
+        {
+            "path": "/3/34/505/44",
+            "station_name": "Stasiun Meteorologi Yuvai Semaring",
+            "station_icao": "WAQJ",
+            "station_wmo_id": 96505,
+            "@name": "44",
+            "@uid": "b91|f1b|0ac|43a|ff83245081c749e8be7041902de5c170",
+            "@id": "https://backends/db/bmkgsatu/3/34/505/44"
+        },
+        {
+            "path": "/3/22/339/65",
+            "station_name": "Stasiun Meteorologi Gusti Syamsir Alam",
+            "station_icao": "WAOK",
+            "station_wmo_id": 96695,
+            "@name": "65",
+            "@uid": "b91|f1b|138|0ae|cde077d43ebc473e9b6a03496db4b622",
+            "@id": "https://backends/db/bmkgsatu/3/22/339/65"
+        },
+        {
+            "path": "/3/22/350/12319",
+            "station_name": "upt testing",
+            "station_icao": "TEST",
+            "station_wmo_id": 99991,
+            "@name": "12319",
+            "@uid": "b91|f1b|138|327|d4ca291753a643c3a41f3fc2104e7147",
+            "@id": "https://backends/db/bmkgsatu/3/22/350/12319"
+        },
+        {
+            "path": "/3/22/349/63",
+            "station_name": "Stasiun Meteorologi Syamsudin Noor",
+            "station_icao": "WAOO",
+            "station_wmo_id": 96685,
+            "@name": "63",
+            "@uid": "b91|f1b|138|f94|85a7f8245b4940b2be750dd10121c9b4",
+            "@id": "https://backends/db/bmkgsatu/3/22/349/63"
+        },
+        {
+            "path": "/3/15/248/84",
+            "station_name": "Stasiun Meteorologi Sangkapura",
+            "station_icao": "WARW",
+            "station_wmo_id": 96925,
+            "@name": "84",
+            "@uid": "b91|f1b|58a|3e3|74143354eac34719a605694cb242a901",
+            "@id": "https://backends/db/bmkgsatu/3/15/248/84"
+        },
+        {
+            "path": "/3/15/246/7949",
+            "station_name": "Stasiun Meteorologi Tuban",
+            "station_icao": "",
+            "station_wmo_id": 96939,
+            "@name": "7949",
+            "@uid": "b91|f1b|58a|442|31f604fa90ce46e78a2aeda67d526b2d",
+            "@id": "https://backends/db/bmkgsatu/3/15/246/7949"
+        },
+        {
+            "path": "/3/15/260/87",
+            "station_name": "Stasiun Meteorologi Maritim Tanjung Perak",
+            "station_icao": "",
+            "station_wmo_id": 96937,
+            "@name": "87",
+            "@uid": "b91|f1b|58a|474|4fe7988879914da4af0ef2de356c5f7c",
+            "@id": "https://backends/db/bmkgsatu/3/15/260/87"
+        },
+        {
+            "path": "/3/15/260/85",
+            "station_name": "Stasiun Meteorologi Perak I",
+            "station_icao": "WRSP",
+            "station_wmo_id": 96933,
+            "@name": "85",
+            "@uid": "b91|f1b|58a|474|cdfa23e1e6fe49808c755ea367a507f3",
+            "@id": "https://backends/db/bmkgsatu/3/15/260/85"
+        },
+        {
+            "path": "/3/15/233/93",
+            "station_name": "Stasiun Meteorologi Banyuwangi",
+            "station_icao": "WADY",
+            "station_wmo_id": 96987,
+            "@name": "93",
+            "@uid": "b91|f1b|58a|634|5a191882cd7549ba8f495fcaa3e2a95c",
+            "@id": "https://backends/db/bmkgsatu/3/15/233/93"
+        },
+        {
+            "path": "/3/15/238/86",
+            "station_name": "Stasiun Meteorologi Juanda",
+            "station_icao": "WARR",
+            "station_wmo_id": 96935,
+            "@name": "86",
+            "@uid": "b91|f1b|58a|7b3|8bb8613361d34ee9a0e751cbd101b9e7",
+            "@id": "https://backends/db/bmkgsatu/3/15/238/86"
+        },
+        {
+            "path": "/3/15/230/12343",
+            "station_name": "ABDUL RAHMAN SALEH TNIAU",
+            "station_icao": "WARA",
+            "station_wmo_id": 96947,
+            "@name": "12343",
+            "@uid": "b91|f1b|58a|81d|6255062efcf24d1aa5719afb041f3228",
+            "@id": "https://backends/db/bmkgsatu/3/15/230/12343"
+        },
+        {
+            "path": "/3/15/230/88",
+            "station_name": "Stasiun Klimatologi Jawa Timur",
+            "station_icao": "",
+            "station_wmo_id": 96943,
+            "@name": "88",
+            "@uid": "b91|f1b|58a|81d|dc76f3a080b34d1f9896618631071a17",
+            "@id": "https://backends/db/bmkgsatu/3/15/230/88"
+        },
+        {
+            "path": "/3/15/252/91",
+            "station_name": "Stasiun Meteorologi Trunojoyo",
+            "station_icao": "WART",
+            "station_wmo_id": 96973,
+            "@name": "91",
+            "@uid": "b91|f1b|58a|be9|7fa628e6e01844d18fc6682389fd9a60",
+            "@id": "https://backends/db/bmkgsatu/3/15/252/91"
+        },
+        {
+            "path": "/3/15/243/12342",
+            "station_name": "ISWAHYUDI TNIAU",
+            "station_icao": "WARI",
+            "station_wmo_id": 96881,
+            "@name": "12342",
+            "@uid": "b91|f1b|58a|c32|0fdea7e841bd465ba10824ea52ef7e2c",
+            "@id": "https://backends/db/bmkgsatu/3/15/243/12342"
+        },
+        {
+            "path": "/3/15/229/12320",
+            "station_name": "Stasiun Meteorologi Dhoho",
+            "station_icao": "WARD",
+            "station_wmo_id": 96929,
+            "@name": "12320",
+            "@uid": "b91|f1b|58a|d3e|b5887707de3746afbce5c962a5bb32e5",
+            "@id": "https://backends/db/bmkgsatu/3/15/229/12320"
+        },
+        {
+            "path": "/3/23/362/55",
+            "station_name": "Stasiun Meteorologi Aji Pangeran Tumenggung Pranoto",
+            "station_icao": "WALS",
+            "station_wmo_id": 96607,
+            "@name": "55",
+            "@uid": "b91|f1b|6eb|1d3|3ad9aa0538d94297a44d2e5f9f4cc0e1",
+            "@id": "https://backends/db/bmkgsatu/3/23/362/55"
+        },
+        {
+            "path": "/3/23/353/47",
+            "station_name": "Stasiun Meteorologi Kalimarau",
+            "station_icao": "WAQT",
+            "station_wmo_id": 96529,
+            "@name": "47",
+            "@uid": "b91|f1b|6eb|21b|3c616dce507b494da919ab96e40a570f",
+            "@id": "https://backends/db/bmkgsatu/3/23/353/47"
+        },
+        {
+            "path": "/3/23/361/57",
+            "station_name": "Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan",
+            "station_icao": "WALL",
+            "station_wmo_id": 96633,
+            "@name": "57",
+            "@uid": "b91|f1b|6eb|3dd|49717481a1034279ba55d10082adfc03",
+            "@id": "https://backends/db/bmkgsatu/3/23/361/57"
+        },
+        {
+            "path": "/3/17/272/115",
+            "station_name": "Stasiun Meteorologi I Gusti Ngurah Rai",
+            "station_icao": "WADD",
+            "station_wmo_id": 97230,
+            "@name": "115",
+            "@uid": "b91|f1b|769|8a6|95e4c0ad6e174715a133c39b5db4f22c",
+            "@id": "https://backends/db/bmkgsatu/3/17/272/115"
+        },
+        {
+            "path": "/3/17/270/118",
+            "station_name": "Stasiun Klimatologi Bali",
+            "station_icao": "",
+            "station_wmo_id": 97236,
+            "@name": "118",
+            "@uid": "b91|f1b|769|ce7|ce4fce4713164cdb9fb0a5eaafeb93fc",
+            "@id": "https://backends/db/bmkgsatu/3/17/270/118"
+        },
+        {
+            "path": "/3/18/288/122",
+            "station_name": "Stasiun Meteorologi Sultan Muhammad Salahuddin",
+            "station_icao": "WADB",
+            "station_wmo_id": 97270,
+            "@name": "122",
+            "@uid": "b91|f1b|bf4|2a4|f126aaafdf534c438ea9c12d519c3895",
+            "@id": "https://backends/db/bmkgsatu/3/18/288/122"
+        },
+        {
+            "path": "/3/18/287/119",
+            "station_name": "Stasiun Meteorologi Zainuddin Abdul Madjid",
+            "station_icao": "WADL",
+            "station_wmo_id": 97240,
+            "@name": "119",
+            "@uid": "b91|f1b|bf4|590|d50e93f3791c47e386ad3dc45682940c",
+            "@id": "https://backends/db/bmkgsatu/3/18/287/119"
+        },
+        {
+            "path": "/3/18/282/121",
+            "station_name": "Stasiun Meteorologi Sultan Muhammad Kaharuddin",
+            "station_icao": "WADS",
+            "station_wmo_id": 97260,
+            "@name": "121",
+            "@uid": "b91|f1b|bf4|cc9|781074d217de44c29118d7d559ca784a",
+            "@id": "https://backends/db/bmkgsatu/3/18/282/121"
+        },
+        {
+            "path": "/3/21/325/60",
+            "station_name": "Stasiun Meteorologi H. Asan",
+            "station_icao": "WAGS",
+            "station_wmo_id": 96651,
+            "@name": "60",
+            "@uid": "b91|f1b|c03|1ab|cd719d4d37c741f7adf229e3bef23fb8",
+            "@id": "https://backends/db/bmkgsatu/3/21/325/60"
+        },
+        {
+            "path": "/3/21/327/61",
+            "station_name": "Stasiun Meteorologi Sanggu",
+            "station_icao": "WAGM",
+            "station_wmo_id": 96653,
+            "@name": "61",
+            "@uid": "b91|f1b|c03|337|ec97db35e1bd4c28bbd9dbc07541868f",
+            "@id": "https://backends/db/bmkgsatu/3/21/327/61"
+        },
+        {
+            "path": "/3/21/328/54",
+            "station_name": "Stasiun Meteorologi Beringin",
+            "station_icao": "WAGB",
+            "station_wmo_id": 96595,
+            "@name": "54",
+            "@uid": "b91|f1b|c03|6a3|07d49b9732f44dba8245d1cd354aff5e",
+            "@id": "https://backends/db/bmkgsatu/3/21/328/54"
+        },
+        {
+            "path": "/3/21/324/59",
+            "station_name": "Stasiun Meteorologi Iskandar",
+            "station_icao": "WAGI",
+            "station_wmo_id": 96645,
+            "@name": "59",
+            "@uid": "b91|f1b|c03|eae|32b7a61a43bf470b8ffdf09478c94eca",
+            "@id": "https://backends/db/bmkgsatu/3/21/324/59"
+        },
+        {
+            "path": "/3/21/337/62",
+            "station_name": "Stasiun Meteorologi Tjilik Riwut",
+            "station_icao": "WAGG",
+            "station_wmo_id": 96655,
+            "@name": "62",
+            "@uid": "b91|f1b|c03|f5e|36c59860a0ad4736b6f361d0f58d8e2e",
+            "@id": "https://backends/db/bmkgsatu/3/21/337/62"
+        },
+        {
+            "path": "/3/19/289/134",
+            "station_name": "Stasiun Meteorologi Tardamu",
+            "station_icao": "WATS",
+            "station_wmo_id": 97380,
+            "@name": "134",
+            "@uid": "b91|f1b|e6d|154|c6e07433cec34b7ab7688173afcf6d6f",
+            "@id": "https://backends/db/bmkgsatu/3/19/289/134"
+        },
+        {
+            "path": "/3/19/298/124",
+            "station_name": "Stasiun Meteorologi Frans Sales Lega",
+            "station_icao": "WATG",
+            "station_wmo_id": 97284,
+            "@name": "124",
+            "@uid": "b91|f1b|e6d|18d|d03e4134754645879cae4d4458765fec",
+            "@id": "https://backends/db/bmkgsatu/3/19/298/124"
+        },
+        {
+            "path": "/3/19/295/125",
+            "station_name": "Stasiun Meteorologi Fransiskus Xaverius Seda",
+            "station_icao": "WATC",
+            "station_wmo_id": 97300,
+            "@name": "125",
+            "@uid": "b91|f1b|e6d|397|993a18de8b074e8197718e1847762255",
+            "@id": "https://backends/db/bmkgsatu/3/19/295/125"
+        },
+        {
+            "path": "/3/19/302/133",
+            "station_name": "Stasiun Meteorologi David Constatijn Saudale",
+            "station_icao": "WATR",
+            "station_wmo_id": 97378,
+            "@name": "133",
+            "@uid": "b91|f1b|e6d|706|80af27c1ecdb4c89be196fa2e39f8ef7",
+            "@id": "https://backends/db/bmkgsatu/3/19/302/133"
+        },
+        {
+            "path": "/3/19/299/128",
+            "station_name": "Stasiun Meteorologi Umbu Mehang Kunda",
+            "station_icao": "WATU",
+            "station_wmo_id": 97340,
+            "@name": "128",
+            "@uid": "b91|f1b|e6d|a11|ad2424640a614caba2ba67f05a4127af",
+            "@id": "https://backends/db/bmkgsatu/3/19/299/128"
+        },
+        {
+            "path": "/3/19/309/12313",
+            "station_name": "Stasiun Meteorologi Maritim Tenau",
+            "station_icao": "",
+            "station_wmo_id": 97370,
+            "@name": "12313",
+            "@uid": "b91|f1b|e6d|bd3|40f6bc7946a049abb7fe6136b64a3c90",
+            "@id": "https://backends/db/bmkgsatu/3/19/309/12313"
+        },
+        {
+            "path": "/3/19/309/130",
+            "station_name": "Stasiun Klimatologi Nusa Tenggara Timur",
+            "station_icao": "",
+            "station_wmo_id": 97374,
+            "@name": "130",
+            "@uid": "b91|f1b|e6d|bd3|d5d6a492af1149a4809f34b9dbcda258",
+            "@id": "https://backends/db/bmkgsatu/3/19/309/130"
+        },
+        {
+            "path": "/3/19/309/131",
+            "station_name": "Stasiun Meteorologi Eltari",
+            "station_icao": "WATT",
+            "station_wmo_id": 97372,
+            "@name": "131",
+            "@uid": "b91|f1b|e6d|bd3|f08649154ee84d8588ca7e2626f47c97",
+            "@id": "https://backends/db/bmkgsatu/3/19/309/131"
+        },
+        {
+            "path": "/3/19/294/126",
+            "station_name": "Stasiun Meteorologi Gewayantana",
+            "station_icao": "WATL",
+            "station_wmo_id": 97310,
+            "@name": "126",
+            "@uid": "b91|f1b|e6d|e60|6715edfd6bd642699b2552b2904f3a6a",
+            "@id": "https://backends/db/bmkgsatu/3/19/294/126"
+        },
+        {
+            "path": "/3/19/293/127",
+            "station_name": "Stasiun Meteorologi Mali",
+            "station_icao": "WATM",
+            "station_wmo_id": 97320,
+            "@name": "127",
+            "@uid": "b91|f1b|e6d|e8f|a9b9c02c31e64b9483a1d0b764841b9f",
+            "@id": "https://backends/db/bmkgsatu/3/19/293/127"
+        },
+        {
+            "path": "/3/19/303/123",
+            "station_name": "Stasiun Meteorologi Komodo",
+            "station_icao": "WATO",
+            "station_wmo_id": 97282,
+            "@name": "123",
+            "@uid": "b91|f1b|e6d|ebd|818af36361f24b4396bcd0c872a73abf",
+            "@id": "https://backends/db/bmkgsatu/3/19/303/123"
+        }
+    ],
+    "items_total": 131
+}

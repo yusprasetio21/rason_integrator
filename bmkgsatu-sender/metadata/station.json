@@ -1,0 +1,622 @@
+{
+    "WAPF": {
+        "station_name": "Stasiun Meteorologi Karel Sadsuitubun",
+        "url": "/4/30/439/161/gts",
+        "wmo_id": 97810
+    },
+    "WAPS": {
+        "station_name": "Stasiun Meteorologi Mathilda Batlayeri",
+        "url": "/4/30/440/164/gts",
+        "wmo_id": 97900
+    },
+    "WAPA": {
+        "station_name": "Stasiun Meteorologi Amahai",
+        "url": "/4/30/438/153/gts",
+        "wmo_id": 97722
+    },
+    "WAPC": {
+        "station_name": "Stasiun Meteorologi Bandaneira",
+        "url": "/4/30/438/159/gts",
+        "wmo_id": 97790
+    },
+    "WAPR": {
+        "station_name": "Stasiun Meteorologi Namlea",
+        "url": "/4/30/441/152/gts",
+        "wmo_id": 97700
+    },
+    "WAPP": {
+        "station_name": "Stasiun Meteorologi Pattimura",
+        "url": "/4/30/447/154/gts",
+        "wmo_id": 97724
+    },
+    "WAFF": {
+        "station_name": "Stasiun Meteorologi Mutiara Sis-Al Jufri",
+        "url": "/4/25/390/100/gts",
+        "wmo_id": 97072
+    },
+    "WAFW": {
+        "station_name": "Stasiun Meteorologi Syukuran Aminudin Amir",
+        "url": "/4/25/386/12329/gts",
+        "wmo_id": 97086
+    },
+    "WAFL": {
+        "station_name": "Stasiun Meteorologi Sultan Bantilan",
+        "url": "/4/25/383/98/gts",
+        "wmo_id": 97028
+    },
+    "WAFP": {
+        "station_name": "Stasiun Meteorologi Kasiguncu",
+        "url": "/4/25/381/103/gts",
+        "wmo_id": 97096
+    },
+    "WAMH": {
+        "station_name": "Stasiun Meteorologi Naha",
+        "url": "/4/24/367/94/gts",
+        "wmo_id": 97008
+    },
+    "WAMM": {
+        "station_name": "Stasiun Meteorologi Sam Ratulangi",
+        "url": "/4/24/376/96/gts",
+        "wmo_id": 97014
+    },
+    "WAMG": {
+        "station_name": "Stasiun Meteorologi Djalaluddin",
+        "url": "/4/28/427/99/gts",
+        "wmo_id": 97048
+    },
+    "WAWB": {
+        "station_name": "Stasiun Meteorologi Beto Ambari",
+        "url": "/4/27/426/114/gts",
+        "wmo_id": 97192
+    },
+    "WAWW": {
+        "station_name": "Stasiun Geofisika Kendari",
+        "url": "/4/27/425/109/gts",
+        "wmo_id": 97148
+    },
+    "WAWP": {
+        "station_name": "Stasiun Meteorologi Sangia Ni Bandera",
+        "url": "/4/27/415/107/gts",
+        "wmo_id": 97142
+    },
+    "WAEW": {
+        "station_name": "LEOWATIMENA TNIAU",
+        "url": "/4/31/455/12345/gts",
+        "wmo_id": 97404
+    },
+    "WAEL": {
+        "station_name": "Stasiun Meteorologi Oesman Sadik",
+        "url": "/4/31/452/138/gts",
+        "wmo_id": 97460
+    },
+    "WAEK": {
+        "station_name": "Pos Meteorologi Kao",
+        "url": "/4/31/451/12691/gts",
+        "wmo_id": 97410
+    },
+    "WAEG": {
+        "station_name": "Stasiun Meteorologi Gamar Malamo",
+        "url": "/4/31/451/135/gts",
+        "wmo_id": 97406
+    },
+    "WAES": {
+        "station_name": "Stasiun Meteorologi Emalamo",
+        "url": "/4/31/453/144/gts",
+        "wmo_id": 97600
+    },
+    "WAEE": {
+        "station_name": "Stasiun Meteorologi Sultan Babullah",
+        "url": "/4/31/456/136/gts",
+        "wmo_id": 97430
+    },
+    "WAAA": {
+        "station_name": "Stasiun Meteorologi Sultan Hasanuddin",
+        "url": "/4/26/399/110/gts",
+        "wmo_id": 97180
+    },
+    "WAFB": {
+        "station_name": "Stasiun Meteorologi Toraja",
+        "url": "/4/26/408/105/gts",
+        "wmo_id": 97124
+    },
+    "WAFM": {
+        "station_name": "Stasiun Meteorologi Andi Jemma",
+        "url": "/4/26/409/106/gts",
+        "wmo_id": 97126
+    },
+    "WAFJ": {
+        "station_name": "Stasiun Meteorologi Tampa Padang",
+        "url": "/4/29/434/12321/gts",
+        "wmo_id": 97116
+    },
+    "WITN": {
+        "station_name": "Stasiun Meteorologi Maimun Saleh",
+        "url": "/1/1/20/1/gts",
+        "wmo_id": 96001
+    },
+    "WITT": {
+        "station_name": "Stasiun Meteorologi Sultan Iskandar Muda",
+        "url": "/1/1/6/3/gts",
+        "wmo_id": 96011
+    },
+    "WITC": {
+        "station_name": "Stasiun Meteorologi Cut Nyak Dhien Nagan Raya",
+        "url": "/1/1/15/5/gts",
+        "wmo_id": 96015
+    },
+    "WIMA": {
+        "station_name": "Stasiun Meteorologi Malikussaleh",
+        "url": "/1/1/8/2/gts",
+        "wmo_id": 96009
+    },
+    "WIEE": {
+        "station_name": "Stasiun Meteorologi Minangkabau",
+        "url": "/1/3/61/23/gts",
+        "wmo_id": 96163
+    },
+    "WIBB": {
+        "station_name": "Stasiun Meteorologi Sultan Syarif Kasim II",
+        "url": "/1/4/86/19/gts",
+        "wmo_id": 96109
+    },
+    "WIBJ": {
+        "station_name": "Stasiun Meteorologi Japura",
+        "url": "/1/4/77/26/gts",
+        "wmo_id": 96171
+    },
+    "WIMN": {
+        "station_name": "Stasiun Meteorologi Silangit",
+        "url": "/1/2/25/11261/gts",
+        "wmo_id": 96043
+    },
+    "WIMM": {
+        "station_name": "Stasiun Meteorologi Kualanamu",
+        "url": "/1/2/30/9/gts",
+        "wmo_id": 96035
+    },
+    "WIMB": {
+        "station_name": "Stasiun Meteorologi Binaka",
+        "url": "/1/2/27/14/gts",
+        "wmo_id": 96075
+    },
+    "WIME": {
+        "station_name": "Stasiun Meteorologi Aek Godang",
+        "url": "/1/2/43/12/gts",
+        "wmo_id": 96071
+    },
+    "WIMS": {
+        "station_name": "Stasiun Meteorologi FL Tobing",
+        "url": "/1/2/24/13/gts",
+        "wmo_id": 96073
+    },
+    "WIDD": {
+        "station_name": "Stasiun Meteorologi Hang Nadim",
+        "url": "/1/10/150/16/gts",
+        "wmo_id": 96087
+    },
+    "WIDM": {
+        "station_name": "Stasiun Meteorologi Tarempa",
+        "url": "/1/10/149/20/gts",
+        "wmo_id": 96145
+    },
+    "WIDT": {
+        "station_name": "Stasiun Meteorologi Raja Haji Abdullah",
+        "url": "/1/10/146/17/gts",
+        "wmo_id": 96089
+    },
+    "WIDS": {
+        "station_name": "Stasiun Meteorologi Dabo",
+        "url": "/1/10/148/27/gts",
+        "wmo_id": 96179
+    },
+    "WIDN": {
+        "station_name": "Stasiun Meteorologi Raja Haji Fisabilillah",
+        "url": "/1/10/151/18/gts",
+        "wmo_id": 96091
+    },
+    "WION": {
+        "station_name": "Stasiun Meteorologi Maritim Natuna",
+        "url": "/1/10/147/21/gts",
+        "wmo_id": 96147
+    },
+    "WAJJ": {
+        "station_name": "Stasiun Meteorologi Sentani",
+        "url": "/5/32/460/148/gts",
+        "wmo_id": 97690
+    },
+    "WAKK": {
+        "station_name": "Stasiun Meteorologi Mopah",
+        "url": "/5/32/458/166/gts",
+        "wmo_id": 97980
+    },
+    "WAJI": {
+        "station_name": "Stasiun Meteorologi Mararena",
+        "url": "/5/32/467/143/gts",
+        "wmo_id": 97580
+    },
+    "WABO": {
+        "station_name": "Stasiun Meteorologi Sudjarwo Tjondronegoro",
+        "url": "/5/32/462/142/gts",
+        "wmo_id": 97570
+    },
+    "WAVV": {
+        "station_name": "Stasiun Meteorologi Wamena",
+        "url": "/5/32/459/147/gts",
+        "wmo_id": 97686
+    },
+    "WAYY": {
+        "station_name": "Stasiun Meteorologi Mozez Kilangin",
+        "url": "/5/32/466/160/gts",
+        "wmo_id": 97796
+    },
+    "WAYE": {
+        "station_name": "Stasiun Meteorologi Enarotali",
+        "url": "/5/32/465/158/gts",
+        "wmo_id": 97780
+    },
+    "WABI": {
+        "station_name": "Stasiun Meteorologi Nabire",
+        "url": "/5/32/461/146/gts",
+        "wmo_id": 97682
+    },
+    "WABB": {
+        "station_name": "Stasiun Meteorologi Frans Kaisiepo",
+        "url": "/5/32/463/141/gts",
+        "wmo_id": 97560
+    },
+    "WAKT": {
+        "station_name": "Stasiun Meteorologi Tanah Merah",
+        "url": "/5/32/473/163/gts",
+        "wmo_id": 97876
+    },
+    "WAUU": {
+        "station_name": "Stasiun Meteorologi Rendani",
+        "url": "/5/33/488/140/gts",
+        "wmo_id": 97530
+    },
+    "WASF": {
+        "station_name": "Stasiun Meteorologi Torea",
+        "url": "/5/33/489/145/gts",
+        "wmo_id": 97630
+    },
+    "WASK": {
+        "station_name": "Stasiun Meteorologi Utarom",
+        "url": "/5/33/494/176/gts",
+        "wmo_id": 97760
+    },
+    "WASS": {
+        "station_name": "Stasiun Meteorologi Domine Eduard Osok",
+        "url": "/5/33/497/139/gts",
+        "wmo_id": 97502
+    },
+    "WAHI": {
+        "station_name": "Stasiun Meteorologi Yogyakarta",
+        "url": "/2/14/219/12314/gts",
+        "wmo_id": 96859
+    },
+    "WAHH": {
+        "station_name": "ADI SUTJIPTO TNIAU",
+        "url": "/2/14/220/12340/gts",
+        "wmo_id": 96853
+    },
+    "WARY": {
+        "station_name": "Stasiun Geofisika Sleman",
+        "url": "/2/14/222/83/gts",
+        "wmo_id": 96855
+    },
+    "WIHH": {
+        "station_name": "Halim Perdana Kusuma Jakarta",
+        "url": "/2/11/157/10890/gts",
+        "wmo_id": 0
+    },
+    "WIOS": {
+        "station_name": "Stasiun Meteorologi Tebelian",
+        "url": "/2/20/314/50/gts",
+        "wmo_id": 96559
+    },
+    "WIOG": {
+        "station_name": "Stasiun Meteorologi Nangapinoh",
+        "url": "/2/20/319/49/gts",
+        "wmo_id": 96557
+    },
+    "WIOI": {
+        "station_name": "HARRY DADISUMANTRY TNIAU",
+        "url": "/2/20/316/12333/gts",
+        "wmo_id": 96533
+    },
+    "WIOO": {
+        "station_name": "Stasiun Meteorologi Supadio",
+        "url": "/2/20/322/52/gts",
+        "wmo_id": 96581
+    },
+    "WIOH": {
+        "station_name": "Stasiun Meteorologi Paloh",
+        "url": "/2/20/310/48/gts",
+        "wmo_id": 96535
+    },
+    "WIOK": {
+        "station_name": "Stasiun Meteorologi Rahadi Oesman",
+        "url": "/2/20/313/56/gts",
+        "wmo_id": 96615
+    },
+    "WIOP": {
+        "station_name": "Stasiun Meteorologi Pangsuma",
+        "url": "/2/20/315/51/gts",
+        "wmo_id": 96565
+    },
+    "WIPP": {
+        "station_name": "Stasiun Meteorologi Sultan Mahmud Badaruddin II",
+        "url": "/2/6/110/32/gts",
+        "wmo_id": 96221
+    },
+    "WIII": {
+        "station_name": "Stasiun Meteorologi Soekarno Hatta",
+        "url": "/2/16/266/73/gts",
+        "wmo_id": 96749
+    },
+    "WIRR": {
+        "station_name": "Stasiun Meteorologi Budiarto",
+        "url": "/2/16/264/69/gts",
+        "wmo_id": 96739
+    },
+    "WAHS": {
+        "station_name": "Stasiun Meteorologi Ahmad Yani",
+        "url": "/2/13/216/82/gts",
+        "wmo_id": 96839
+    },
+    "WAHL": {
+        "station_name": "Stasiun Meteorologi Tunggul Wulung",
+        "url": "/2/13/184/79/gts",
+        "wmo_id": 96805
+    },
+    "WIHJ": {
+        "station_name": "ATANG SANDJAJA TNIAU",
+        "url": "/2/12/158/12335/gts",
+        "wmo_id": 96755
+    },
+    "WICD": {
+        "station_name": "Pos Meteorologi Penggung",
+        "url": "/2/12/166/7744/gts",
+        "wmo_id": 96793
+    },
+    "WICC": {
+        "station_name": "HUSEIN SASTRA NEGARA TNIAU",
+        "url": "/2/12/177/12337/gts",
+        "wmo_id": 96781
+    },
+    "WICA": {
+        "station_name": "Stasiun Meteorologi Kertajati",
+        "url": "/2/12/167/77/gts",
+        "wmo_id": 96791
+    },
+    "WIKT": {
+        "station_name": "Stasiun Meteorologi H. AS. Hananjoeddin",
+        "url": "/2/9/139/36/gts",
+        "wmo_id": 96249
+    },
+    "WIKK": {
+        "station_name": "Stasiun Meteorologi Depati Amir",
+        "url": "/2/9/144/34/gts",
+        "wmo_id": 96237
+    },
+    "WIJI": {
+        "station_name": "Stasiun Meteorologi Depati Parbo",
+        "url": "/2/5/88/31/gts",
+        "wmo_id": 96207
+    },
+    "WIJJ": {
+        "station_name": "Stasiun Meteorologi Sultan Thaha",
+        "url": "/2/5/97/29/gts",
+        "wmo_id": 96195
+    },
+    "WILL": {
+        "station_name": "Stasiun Meteorologi Radin Inten II",
+        "url": "/2/8/124/42/gts",
+        "wmo_id": 96295
+    },
+    "WIGG": {
+        "station_name": "Stasiun Meteorologi Fatmawati Soekarno",
+        "url": "/2/7/123/37/gts",
+        "wmo_id": 96253
+    },
+    "WAQD": {
+        "station_name": "Stasiun Meteorologi Tanjung Harapan",
+        "url": "/3/34/503/178/gts",
+        "wmo_id": 96525
+    },
+    "WAQQ": {
+        "station_name": "Stasiun Meteorologi Juwata",
+        "url": "/3/34/507/46/gts",
+        "wmo_id": 96509
+    },
+    "WAQA": {
+        "station_name": "Stasiun Meteorologi Nunukan",
+        "url": "/3/34/505/45/gts",
+        "wmo_id": 96503
+    },
+    "WAQJ": {
+        "station_name": "Stasiun Meteorologi Yuvai Semaring",
+        "url": "/3/34/505/44/gts",
+        "wmo_id": 96505
+    },
+    "WAOK": {
+        "station_name": "Stasiun Meteorologi Gusti Syamsir Alam",
+        "url": "/3/22/339/65/gts",
+        "wmo_id": 96695
+    },
+    "TEST": {
+        "station_name": "upt testing",
+        "url": "/3/22/350/12319/gts",
+        "wmo_id": 99991
+    },
+    "WAOO": {
+        "station_name": "Stasiun Meteorologi Syamsudin Noor",
+        "url": "/3/22/349/63/gts",
+        "wmo_id": 96685
+    },
+    "WARW": {
+        "station_name": "Stasiun Meteorologi Sangkapura",
+        "url": "/3/15/248/84/gts",
+        "wmo_id": 96925
+    },
+    "WRSP": {
+        "station_name": "Stasiun Meteorologi Perak I",
+        "url": "/3/15/260/85/gts",
+        "wmo_id": 96933
+    },
+    "WADY": {
+        "station_name": "Stasiun Meteorologi Banyuwangi",
+        "url": "/3/15/233/93/gts",
+        "wmo_id": 96987
+    },
+    "WARR": {
+        "station_name": "Stasiun Meteorologi Juanda",
+        "url": "/3/15/238/86/gts",
+        "wmo_id": 96935
+    },
+    "WARA": {
+        "station_name": "ABDUL RAHMAN SALEH TNIAU",
+        "url": "/3/15/230/12343/gts",
+        "wmo_id": 96947
+    },
+    "WART": {
+        "station_name": "Stasiun Meteorologi Trunojoyo",
+        "url": "/3/15/252/91/gts",
+        "wmo_id": 96973
+    },
+    "WARI": {
+        "station_name": "ISWAHYUDI TNIAU",
+        "url": "/3/15/243/12342/gts",
+        "wmo_id": 96881
+    },
+    "WARD": {
+        "station_name": "Stasiun Meteorologi Dhoho",
+        "url": "/3/15/229/12320/gts",
+        "wmo_id": 96929
+    },
+    "WALS": {
+        "station_name": "Stasiun Meteorologi Aji Pangeran Tumenggung Pranoto",
+        "url": "/3/23/362/55/gts",
+        "wmo_id": 96607
+    },
+    "WAQT": {
+        "station_name": "Stasiun Meteorologi Kalimarau",
+        "url": "/3/23/353/47/gts",
+        "wmo_id": 96529
+    },
+    "WALL": {
+        "station_name": "Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan",
+        "url": "/3/23/361/57/gts",
+        "wmo_id": 96633
+    },
+    "WADD": {
+        "station_name": "Stasiun Meteorologi I Gusti Ngurah Rai",
+        "url": "/3/17/272/115/gts",
+        "wmo_id": 97230
+    },
+    "WADB": {
+        "station_name": "Stasiun Meteorologi Sultan Muhammad Salahuddin",
+        "url": "/3/18/288/122/gts",
+        "wmo_id": 97270
+    },
+    "WADL": {
+        "station_name": "Stasiun Meteorologi Zainuddin Abdul Madjid",
+        "url": "/3/18/287/119/gts",
+        "wmo_id": 97240
+    },
+    "WADS": {
+        "station_name": "Stasiun Meteorologi Sultan Muhammad Kaharuddin",
+        "url": "/3/18/282/121/gts",
+        "wmo_id": 97260
+    },
+    "WAGS": {
+        "station_name": "Stasiun Meteorologi H. Asan",
+        "url": "/3/21/325/60/gts",
+        "wmo_id": 96651
+    },
+    "WAGM": {
+        "station_name": "Stasiun Meteorologi Sanggu",
+        "url": "/3/21/327/61/gts",
+        "wmo_id": 96653
+    },
+    "WAGB": {
+        "station_name": "Stasiun Meteorologi Beringin",
+        "url": "/3/21/328/54/gts",
+        "wmo_id": 96595
+    },
+    "WAGI": {
+        "station_name": "Stasiun Meteorologi Iskandar",
+        "url": "/3/21/324/59/gts",
+        "wmo_id": 96645
+    },
+    "WAGG": {
+        "station_name": "Stasiun Meteorologi Tjilik Riwut",
+        "url": "/3/21/337/62/gts",
+        "wmo_id": 96655
+    },
+    "WATS": {
+        "station_name": "Stasiun Meteorologi Tardamu",
+        "url": "/3/19/289/134/gts",
+        "wmo_id": 97380
+    },
+    "WATG": {
+        "station_name": "Stasiun Meteorologi Frans Sales Lega",
+        "url": "/3/19/298/124/gts",
+        "wmo_id": 97284
+    },
+    "WATC": {
+        "station_name": "Stasiun Meteorologi Fransiskus Xaverius Seda",
+        "url": "/3/19/295/125/gts",
+        "wmo_id": 97300
+    },
+    "WATR": {
+        "station_name": "Stasiun Meteorologi David Constatijn Saudale",
+        "url": "/3/19/302/133/gts",
+        "wmo_id": 97378
+    },
+    "WATU": {
+        "station_name": "Stasiun Meteorologi Umbu Mehang Kunda",
+        "url": "/3/19/299/128/gts",
+        "wmo_id": 97340
+    },
+    "WATT": {
+        "station_name": "Stasiun Meteorologi Eltari",
+        "url": "/3/19/309/131/gts",
+        "wmo_id": 97372
+    },
+    "WATL": {
+        "station_name": "Stasiun Meteorologi Gewayantana",
+        "url": "/3/19/294/126/gts",
+        "wmo_id": 97310
+    },
+    "WATM": {
+        "station_name": "Stasiun Meteorologi Mali",
+        "url": "/3/19/293/127/gts",
+        "wmo_id": 97320
+    },
+    "WATO": {
+        "station_name": "Stasiun Meteorologi Komodo",
+        "url": "/3/19/303/123/gts",
+        "wmo_id": 97282
+    },
+    "WICN": {
+        "station_name": "AWOS Nusawiru",
+        "url": "/2/12/501/12697/gts",
+        "wmo_id": 99924
+    },
+    "WARE": {
+        "station_name": "Pos Meteorologi Bandara Notohadinegoro - Jember",
+        "url": "/3/15/232/12696/gts",
+        "wmo_id": 99927
+    },
+    "WIPB": {
+        "station_name": "AWOS Silampari - Sumatera",
+        "url": "/2/6/112/12699/gts",
+        "wmo_id": 99928
+    },
+    "WAMN": {
+        "station_name": "AWOS Melonguane - Sulawesi",
+        "url": "/4/24/376/12700/gts",
+        "wmo_id": 99929
+    }
+}

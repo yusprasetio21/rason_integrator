@@ -1,0 +1,110 @@
+station_icao,station_name,url,station_wmo_id
+WAPF,Stasiun Meteorologi Karel Sadsuitubun,/4/30/439/161/gts,97810
+WAPS,Stasiun Meteorologi Mathilda Batlayeri,/4/30/440/164/gts,97900
+WAPA,Stasiun Meteorologi Amahai,/4/30/438/153/gts,97722
+WAPC,Stasiun Meteorologi Bandaneira,/4/30/438/159/gts,97790
+WAPR,Stasiun Meteorologi Namlea,/4/30/441/152/gts,97700
+WAPP,Stasiun Meteorologi Pattimura,/4/30/447/154/gts,97724
+WAFF,Stasiun Meteorologi Mutiara Sis-Al Jufri,/4/25/390/100/gts,97072
+WAFW,Stasiun Meteorologi Syukuran Aminudin Amir,/4/25/386/12329/gts,97086
+WAFL,Stasiun Meteorologi Sultan Bantilan,/4/25/383/98/gts,97028
+WAFP,Stasiun Meteorologi Kasiguncu,/4/25/381/103/gts,97096
+WAMH,Stasiun Meteorologi Naha,/4/24/367/94/gts,97008
+WAMM,Stasiun Meteorologi Sam Ratulangi,/4/24/376/96/gts,97014
+WAMG,Stasiun Meteorologi Djalaluddin,/4/28/427/99/gts,97048
+WAWB,Stasiun Meteorologi Beto Ambari,/4/27/426/114/gts,97192
+WAWP,Stasiun Meteorologi Sangia Ni Bandera,/4/27/415/107/gts,97142
+WAEL,Stasiun Meteorologi Oesman Sadik,/4/31/452/138/gts,97460
+WAEG,Stasiun Meteorologi Gamar Malamo,/4/31/451/135/gts,97406
+WAES,Stasiun Meteorologi Emalamo,/4/31/453/144/gts,97600
+WAEE,Stasiun Meteorologi Sultan Babullah,/4/31/456/136/gts,97430
+WAAA,Stasiun Meteorologi Sultan Hasanuddin,/4/26/399/110/gts,97180
+WAFB,Stasiun Meteorologi Toraja,/4/26/408/105/gts,97124
+WAFM,Stasiun Meteorologi Andi Jemma,/4/26/409/106/gts,97126
+WAFJ,Stasiun Meteorologi Tampa Padang,/4/29/434/12321/gts,97116
+WITN,Stasiun Meteorologi Maimun Saleh,/1/1/20/1/gts,96001
+WITT,Stasiun Meteorologi Sultan Iskandar Muda,/1/1/6/3/gts,96011
+WITC,Stasiun Meteorologi Cut Nyak Dhien Nagan Raya,/1/1/15/5/gts,96015
+WIMA,Stasiun Meteorologi Malikussaleh,/1/1/8/2/gts,96009
+WIBB,Stasiun Meteorologi Sultan Syarif Kasim II,/1/4/86/19/gts,96109
+WIBJ,Stasiun Meteorologi Japura,/1/4/77/26/gts,96171
+WIMN,Stasiun Meteorologi Silangit,/1/2/25/11261/gts,96043
+WIMM,Stasiun Meteorologi Kualanamu,/1/2/30/9/gts,96035
+WIMB,Stasiun Meteorologi Binaka,/1/2/27/14/gts,96075
+WIME,Stasiun Meteorologi Aek Godang,/1/2/43/12/gts,96071
+WIMS,Stasiun Meteorologi FL Tobing,/1/2/24/13/gts,96073
+WIDD,Stasiun Meteorologi Hang Nadim,/1/10/150/16/gts,96087
+WIDM,Stasiun Meteorologi Tarempa,/1/10/149/20/gts,96145
+WIDT,Stasiun Meteorologi Raja Haji Abdullah,/1/10/146/17/gts,96089
+WIDS,Stasiun Meteorologi Dabo,/1/10/148/27/gts,96179
+WIDN,Stasiun Meteorologi Raja Haji Fisabilillah,/1/10/151/18/gts,96091
+WAJJ,Stasiun Meteorologi Sentani,/5/32/460/148/gts,97690
+WAKK,Stasiun Meteorologi Mopah,/5/32/458/166/gts,97980
+WAJI,Stasiun Meteorologi Mararena,/5/32/467/143/gts,97580
+WABO,Stasiun Meteorologi Sudjarwo Tjondronegoro,/5/32/462/142/gts,97570
+WAVV,Stasiun Meteorologi Wamena,/5/32/459/147/gts,97686
+WAYY,Stasiun Meteorologi Mozez Kilangin,/5/32/466/160/gts,97796
+WAYE,Stasiun Meteorologi Enarotali,/5/32/465/158/gts,97780
+WABI,Stasiun Meteorologi Nabire,/5/32/461/146/gts,97682
+WABB,Stasiun Meteorologi Frans Kaisiepo,/5/32/463/141/gts,97560
+WAKT,Stasiun Meteorologi Tanah Merah,/5/32/473/163/gts,97876
+WAUU,Stasiun Meteorologi Rendani,/5/33/488/140/gts,97530
+WASF,Stasiun Meteorologi Torea,/5/33/489/145/gts,97630
+WASK,Stasiun Meteorologi Utarom,/5/33/494/176/gts,97760
+WASS,Stasiun Meteorologi Domine Eduard Osok,/5/33/497/139/gts,97502
+WAHI,Stasiun Meteorologi Yogyakarta,/2/14/219/12314/gts,96859
+WAHH,ADI SUTJIPTO TNIAU,/2/14/220/12340/gts,96853
+WIOS,Stasiun Meteorologi Tebelian,/2/20/314/50/gts,96559
+WIOG,Stasiun Meteorologi Nangapinoh,/2/20/319/49/gts,96557
+WIOO,Stasiun Meteorologi Supadio,/2/20/322/52/gts,96581
+WIOH,Stasiun Meteorologi Paloh,/2/20/310/48/gts,96535
+WIOK,Stasiun Meteorologi Rahadi Oesman,/2/20/313/56/gts,96615
+WIOP,Stasiun Meteorologi Pangsuma,/2/20/315/51/gts,96565
+WIPP,Stasiun Meteorologi Sultan Mahmud Badaruddin II,/2/6/110/32/gts,96221
+WIII,Stasiun Meteorologi Soekarno Hatta,/2/16/266/73/gts,96749
+WIRR,Stasiun Meteorologi Budiarto,/2/16/264/69/gts,96739
+WAHS,Stasiun Meteorologi Ahmad Yani,/2/13/216/82/gts,96839
+WAHL,Stasiun Meteorologi Tunggul Wulung,/2/13/184/79/gts,96805
+WIHJ,ATANG SANDJAJA TNIAU,/2/12/158/12335/gts,96755
+WICC,HUSEIN SASTRA NEGARA TNIAU,/2/12/177/12337/gts,96781
+WIKT,Stasiun Meteorologi H. AS. Hananjoeddin,/2/9/139/36/gts,96249
+WIKK,Stasiun Meteorologi Depati Amir,/2/9/144/34/gts,96237
+WIJI,Stasiun Meteorologi Depati Parbo,/2/5/88/31/gts,96207
+WIJJ,Stasiun Meteorologi Sultan Thaha,/2/5/97/29/gts,96195
+WILL,Stasiun Meteorologi Radin Inten II,/2/8/124/42/gts,96295
+WIGG,Stasiun Meteorologi Fatmawati Soekarno,/2/7/123/37/gts,96253
+WAQD,Stasiun Meteorologi Tanjung Harapan,/3/34/503/178/gts,96525
+WAQQ,Stasiun Meteorologi Juwata,/3/34/507/46/gts,96509
+WAQA,Stasiun Meteorologi Nunukan,/3/34/505/45/gts,96503
+WAQJ,Stasiun Meteorologi Yuvai Semaring,/3/34/505/44/gts,96505
+WAOK,Stasiun Meteorologi Gusti Syamsir Alam,/3/22/339/65/gts,96695
+TEST,upt testing,/3/22/350/12319/gts,99991
+WAOO,Stasiun Meteorologi Syamsudin Noor,/3/22/349/63/gts,96685
+WARW,Stasiun Meteorologi Sangkapura,/3/15/248/84/gts,96925
+WADY,Stasiun Meteorologi Banyuwangi,/3/15/233/93/gts,96987
+WARR,Stasiun Meteorologi Juanda,/3/15/238/86/gts,96935
+WARA,ABDUL RAHMAN SALEH TNIAU,/3/15/230/12343/gts,96947
+WART,Stasiun Meteorologi Trunojoyo,/3/15/252/91/gts,96973
+WARI,ISWAHYUDI TNIAU,/3/15/243/12342/gts,96881
+WARD,Stasiun Meteorologi Dhoho,/3/15/229/12320/gts,96929
+WALS,Stasiun Meteorologi Aji Pangeran Tumenggung Pranoto,/3/23/362/55/gts,96607
+WAQT,Stasiun Meteorologi Kalimarau,/3/23/353/47/gts,96529
+WALL,Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan,/3/23/361/57/gts,96633
+WADD,Stasiun Meteorologi I Gusti Ngurah Rai,/3/17/272/115/gts,97230
+WADB,Stasiun Meteorologi Sultan Muhammad Salahuddin,/3/18/288/122/gts,97270
+WADL,Stasiun Meteorologi Zainuddin Abdul Madjid,/3/18/287/119/gts,97240
+WADS,Stasiun Meteorologi Sultan Muhammad Kaharuddin,/3/18/282/121/gts,97260
+WAGS,Stasiun Meteorologi H. Asan,/3/21/325/60/gts,96651
+WAGM,Stasiun Meteorologi Sanggu,/3/21/327/61/gts,96653
+WAGB,Stasiun Meteorologi Beringin,/3/21/328/54/gts,96595
+WAGI,Stasiun Meteorologi Iskandar,/3/21/324/59/gts,96645
+WAGG,Stasiun Meteorologi Tjilik Riwut,/3/21/337/62/gts,96655
+WATS,Stasiun Meteorologi Tardamu,/3/19/289/134/gts,97380
+WATG,Stasiun Meteorologi Frans Sales Lega,/3/19/298/124/gts,97284
+WATC,Stasiun Meteorologi Fransiskus Xaverius Seda,/3/19/295/125/gts,97300
+WATR,Stasiun Meteorologi David Constatijn Saudale,/3/19/302/133/gts,97378
+WATU,Stasiun Meteorologi Umbu Mehang Kunda,/3/19/299/128/gts,97340
+WATT,Stasiun Meteorologi Eltari,/3/19/309/131/gts,97372
+WATL,Stasiun Meteorologi Gewayantana,/3/19/294/126/gts,97310
+WATM,Stasiun Meteorologi Mali,/3/19/293/127/gts,97320
+WATO,Stasiun Meteorologi Komodo,/3/19/303/123/gts,97282

@@ -1,0 +1,85 @@
+file_name,tanggal_data,wmo_id,station_name,status
+T2096147A2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+T2097502D2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+T2096011D2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503210000.bin,2025032100,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2097502A2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97560_2025032100.DAT,2025032100,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D96645_202503210000.bfr,2025032100,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+T2096645B2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+T2096011B2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D97560_2025032100IUSG.BIN,2025032100,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+T2096147B2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+P2096645C2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503210000.bfh,2025032100,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+P2096509D25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2097502B2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+P2096509C25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D97014_2025032100.DAT,2025032100,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+P2096147A2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+P2096645B2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+P2096805C2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96935_2025032100IUKG.BIN,2025032100,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025032100.DAT,2025032100,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96509_202503210000.bfr,2025032100,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2097502C2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+P2096147B2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96935_2025032100IUSG.BIN,2025032100,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+T2096509B25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+T2096645C2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96011_202503210000.bfr,2025032100,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2096509A25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2096805A2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96509_2025032100.bfr,2025032100,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2096011D2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96581_2025032100IUSG.BIN,2025032100,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+T2096147D2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+T2096011B2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2096805D2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+P2096011A2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+P2096645D2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96147_202503210000.bfr,2025032100,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D97890_2025032100.DAT,2025032100,97890,-,Tidak Dikenali
+T2096805C2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+T2096645D2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96805_202503210000.bfh,2025032100,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D97560_2025032100IUKG.BIN,2025032100,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+P2096011B2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+P2096011A2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+P2096147D2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+P2096805B2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D97014_2025032100IUKG.BIN,2025032100,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+T2096509C25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+T2096011A2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96509_202503210000.bfh,2025032100,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2096147C2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D97014_2025032100IUSG.BIN,2025032100,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+P2097502A2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+T2096805A2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+P2096509B25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2096011B2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96581_2025032100.DAT,2025032100,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D97502_202503210000.bfh,2025032100,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+P2096805D2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+T2096645A2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+P2096509A25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2096011C2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2097502B2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D96011_202503210000.bfh,2025032100,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2096011A2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2096011C2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D97890_2025032100IUSG.BIN,2025032100,97890,-,Tidak Dikenali
+D96805_202503210000.bfr,2025032100,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+T2096805B2503210000.X,2021032500,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+T2096147C2503210000.X,2021032500,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+P2097502D2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503210000.bfr,2025032100,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+T2096509D25032100.X,2021032500,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+P2096011C2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+P2096011D2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2096011C2503210000.DAT,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+T2096011D2503210000.X,2021032500,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96147_202503210000.bfh,2025032100,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+P2096645A2503210000.X,2021032500,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+T2097502C2503210000.X,2021032500,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97890_2025032100IUKG.BIN,2025032100,97890,-,Tidak Dikenali

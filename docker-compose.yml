@@ -1,0 +1,81 @@
+# docker-compose.yml (tanpa RabbitMQ)
+
+x-log-volumes: &log-volumes /var/log/rasonintegrator:/var/log/rasonintegrator
+
+x-default-network: &default-network
+  networks:
+    - app-tier
+
+services:
+  ftp-receiver-rason:
+    command: python main.py
+    restart: always
+    build:
+      context: /home/bmkgsatu/rason_integrator/ftp-receiver
+      dockerfile: Dockerfile
+    image: ftp-receiver-rason
+    volumes:
+      - *log-volumes
+      - /home/bmkgsatu/rason_integrator/ftp-receiver/.env:/app/.env
+      - /home/bmkgsatu/rason_integrator/rasonfile-bucket/:/app/targetftp/
+      - /ftp/rasonftp/:/app/sourceftp/
+    <<: *default-network
+
+  # rason-forwarder:
+  #   command: python main.py
+  #   restart: always
+  #   build:
+  #     context: /home/bmkgsatu/rason_integrator/rason-forwarder
+  #     dockerfile: Dockerfile
+  #   image: rason-forwarder-rason
+  #   volumes:
+  #     - *log-volumes
+  #     - /home/bmkgsatu/rason_integrator/rason-forwarder/.env:/app/.env
+  #     - /home/bmkgsatu/rason_integrator/rasonfile-bucket/:/app/rasonfile/
+  #   <<: *default-network
+  # 🚀 Forwarder ASCII mode
+  rason-forwarder-ascii:
+    command: python main.py
+    restart: always
+    build:
+      context: /home/bmkgsatu/rason_integrator/rason-forwarder
+      dockerfile: Dockerfile
+    image: rason-forwarder-ascii
+    volumes:
+      - *log-volumes
+      - /home/bmkgsatu/rason_integrator/rason-forwarder/.env.ascii:/app/.env
+      - /home/bmkgsatu/rason_integrator/rasonfile-bucket/:/app/rasonfile/
+    <<: *default-network
+
+  # ⚡ Forwarder BINARY mode
+  rason-forwarder-binary:
+    command: python main.py
+    restart: always
+    build:
+      context: /home/bmkgsatu/rason_integrator/rason-forwarder
+      dockerfile: Dockerfile
+    image: rason-forwarder-binary
+    volumes:
+      - *log-volumes
+      - /home/bmkgsatu/rason_integrator/rason-forwarder/.env.binary:/app/.env
+      - /home/bmkgsatu/rason_integrator/rasonfile-bucket/:/app/rasonfile/
+    <<: *default-network
+
+  apibmkgsatu-ingest-rason:
+    command: python main.py
+    restart: always
+    build:
+      context: /home/bmkgsatu/rason_integrator/bmkgsatu-sender
+      dockerfile: Dockerfile
+    image: bmkgsatu-sender-rason
+    volumes:
+      - *log-volumes
+      - /home/bmkgsatu/rason_integrator/bmkgsatu-sender/.env:/app/.env
+      - /home/bmkgsatu/rason_integrator/bmkgsatu-sender/metadata/station.json:/app/metadata/station.json
+      - /home/bmkgsatu/rason_integrator/bmkgsatu-sender/metadata/station_prod.json:/app/metadata/station_prod.json
+      - /home/bmkgsatu/rason_integrator/bmkgsatu-sender/metadata/header.json:/app/metadata/header.json
+    <<: *default-network
+
+networks:
+  app-tier:
+    driver: bridge

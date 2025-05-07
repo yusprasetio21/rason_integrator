@@ -1,0 +1,1309 @@
+file_name,wmo_id,station_name,status
+A_IUKK01WIII010000_C_WIIX_20250101003228_S4001396.bin,,,Format Tidak Dikenali
+B96011_202501150000.I,,,Format Tidak Dikenali
+B96011_202501151200.I,,,Format Tidak Dikenali
+B96011_202501160000.I,,,Format Tidak Dikenali
+B96011_202501161200.I,,,Format Tidak Dikenali
+B96011_202501170000.I,,,Format Tidak Dikenali
+B96147_202501160000.I,,,Format Tidak Dikenali
+B96147_202501161200.I,,,Format Tidak Dikenali
+B96147_202501170000.I,,,Format Tidak Dikenali
+B96147_202501171200.I,,,Format Tidak Dikenali
+B96147_202501180000.I,,,Format Tidak Dikenali
+B96509_2025011500.I,,,Format Tidak Dikenali
+B96509_2025011600.I,,,Format Tidak Dikenali
+B96509_2025011700.I,,,Format Tidak Dikenali
+B96509_2025011800.I,,,Format Tidak Dikenali
+B96645_202501150000.I,,,Format Tidak Dikenali
+B96645_202501151200.I,,,Format Tidak Dikenali
+B96645_202501160000.I,,,Format Tidak Dikenali
+B96645_202501161200.I,,,Format Tidak Dikenali
+B96645_202501170000.I,,,Format Tidak Dikenali
+B96645_202501171200.I,,,Format Tidak Dikenali
+B96645_202501180000.I,,,Format Tidak Dikenali
+B96805_202501150000.I,,,Format Tidak Dikenali
+B96805_202501151200.I,,,Format Tidak Dikenali
+B96805_202501160000.I,,,Format Tidak Dikenali
+B96805_202501161200.I,,,Format Tidak Dikenali
+B96805_202501170000.I,,,Format Tidak Dikenali
+B96805_202501171200.I,,,Format Tidak Dikenali
+B96805_202501180000.I,,,Format Tidak Dikenali
+B97502_202501150000.I,,,Format Tidak Dikenali
+B97502_202501151200.I,,,Format Tidak Dikenali
+B97502_202501160000.I,,,Format Tidak Dikenali
+B97502_202501161200.I,,,Format Tidak Dikenali
+B97502_202501170000.I,,,Format Tidak Dikenali
+B97502_202501171200.I,,,Format Tidak Dikenali
+B97502_202501180000.I,,,Format Tidak Dikenali
+BA2025011500_1.bfh,,,Format Tidak Dikenali
+BA2025011512_1.bfh,,,Format Tidak Dikenali
+BA2025011600_1.bfh,,,Format Tidak Dikenali
+BA2025011612_1.bfh,,,Format Tidak Dikenali
+BA2025011700_1.bfh,,,Format Tidak Dikenali
+CI2025011500_1.bfh,,,Format Tidak Dikenali
+CI2025011512_1.bfh,,,Format Tidak Dikenali
+CI2025011600_1.bfh,,,Format Tidak Dikenali
+CI2025011612_1.bfh,,,Format Tidak Dikenali
+CI2025011700_1.bfh,,,Format Tidak Dikenali
+CI2025011712_1.bfh,,,Format Tidak Dikenali
+CI2025011800_1.bfh,,,Format Tidak Dikenali
+D96011_202501170000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501170000.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501171200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501171200.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501180000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501180000.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501181200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501181200.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501190000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501190000.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501191200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501191200.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501200000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501200000.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501201200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501201200.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501210000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501210000.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501211200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501211200.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501220000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501220000.bufr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501221200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501221200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501230000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501230000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501231200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501231200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501240000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501240000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501241200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501241200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501250000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501250000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501251200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501251200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501260000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501260000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501261200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501261200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501270000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501270000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501271200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501271200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501280000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501280000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501281200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501281200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501290000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501290000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501291200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501291200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501301200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501301200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501310000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202501310000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502010000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502010000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502011200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502011200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502021200.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502021200.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502040000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502040000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502050000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502050000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502060000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502060000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502070000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502070000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502080000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502080000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502090000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502090000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502100000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502100000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502110000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502110000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502120000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502120000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502130000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502130000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502140000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502140000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502170000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502170000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502180000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502180000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502190000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502190000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502210000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502210000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502220000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502220000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502240000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502240000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502250000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502250000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502270000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502270000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502280000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202502280000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503030000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503030000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503040000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503040000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503060000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503060000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503070000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503070000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503100000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503100000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503110000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503110000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503120000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503120000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503130000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503130000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503140000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503140000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503160000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503160000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503170000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503170000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503190000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503190000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503200000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503200000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503210000.bfh,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503210000.bfr,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96011_202503210000.bin,96011,WITT_Stasiun Meteorologi Sultan Iskandar Muda,Dikenali
+D96035_2025022800IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025022800IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030300IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030300IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030400IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030400IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030500IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030500IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030700IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030800IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025030800IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031000IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031100IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031100IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031200IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031600IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031600IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031700IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031700IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031900IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025031900IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025032000IUKG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96035_2025032000IUSG.BIN,96035,WIMM_Stasiun Meteorologi Kualanamu,Dikenali
+D96109_2025030500IUSG.BIN,96109,WIBB_Stasiun Meteorologi Sultan Syarif Kasim II,Dikenali
+D96147_202501180000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501180000.bufr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501181200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501181200.bufr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501200000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501200000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501201200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501201200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501210000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501210000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501211200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501211200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501220000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501220000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501221200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501221200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501230000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501230000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501231200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501231200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501240000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501240000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501241200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501241200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501250000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501250000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501251200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501251200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501260000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501260000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501261200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501261200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501270000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501270000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501271200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501271200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501280000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501280000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501281200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501281200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501290000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501290000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501291200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501291200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501300000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501300000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501301200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501301200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501310000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202501310000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502010000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502010000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502011200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502011200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502020000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502020000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502021200.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502021200.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502030000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502030000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502040000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502040000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502050000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502050000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502060000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502060000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502070000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502070000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502080000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502080000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502090000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502090000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502100000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502100000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502110000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502110000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502120000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502120000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502130000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502130000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502140000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502140000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502150000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502150000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502160000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502160000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502170000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502170000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502180000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502180000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502190000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502190000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502200000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502200000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502210000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502210000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502220000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502220000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502240000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502240000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502250000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502250000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502260000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502260000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502270000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502270000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502280000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202502280000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503010000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503010000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503020000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503020000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503030000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503030000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503040000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503040000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503050000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503050000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503060000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503060000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503070000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503070000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503080000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503080000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503090000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503090000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503100000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503100000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503110000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503110000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503120000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503120000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503130000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503130000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503140000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503140000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503150000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503150000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503160000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503160000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503170000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503170000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503180000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503180000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503190000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503190000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503200000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503200000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503210000.bfh,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96147_202503210000.bfr,96147,WION_Stasiun Meteorologi Maritim Natuna,Dikenali
+D96163_2025030500IUKG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96163_2025030500IUSG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96163_2025030600IUKG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96163_2025030600IUSG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96163_2025030700IUKG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96163_2025030700IUSG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96163_2025031200IUKG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96163_2025031200IUSG.BIN,96163,WIEE_Stasiun Meteorologi Minangkabau,Dikenali
+D96237_2025030500IUKG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025030500IUSG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025030600IUKG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025030600IUSG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025031000IUKG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025031000IUSG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025031300IUKG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025031600IUKG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025031600IUSG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025031700IUKG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025031700IUSG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025032000IUKG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96237_2025032000IUSG.BIN,96237,WIKK_Stasiun Meteorologi Depati Amir,Dikenali
+D96253_2025030500IUKG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025030500IUSG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025030600IUKG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025030600IUSG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031000IUKG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031000IUSG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031100IUKG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031100IUSG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031300IUKG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031300IUSG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031900IUKG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96253_2025031900IUSG.BIN,96253,WIGG_Stasiun Meteorologi Fatmawati Soekarno,Dikenali
+D96509_202501180000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025011800.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501181200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501181200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501190000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501190000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025011900.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501191200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501191200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501200000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501201200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501210000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501210000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012100.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501211200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501211200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501220000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501220000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501221200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501230000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501230000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012300.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501231200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501231200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501240000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501240000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012400.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501241200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501241200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501250000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501250000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012500.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501251200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501260000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501260000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012600.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501261200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501270000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501270000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012700.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501271200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501271200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501280000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501280000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012800.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501281200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501290000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501290000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025012900.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501291200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501291200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501300000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025013000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501301200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501301200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501310000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202501310000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025013100.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502010000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502010000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020100.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502011200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502020000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502020000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502021200.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502021200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502030000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502030000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020300.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502040000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502040000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020400.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502050000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502050000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020500.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502060000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020600.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502070000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502070000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020700.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502080000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502080000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020800.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502090000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502090000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025020900.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502100000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502100000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502110000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502110000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021100.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502120000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502120000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502130000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502130000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021300.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502140000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502140000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021400.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502150000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502150000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021500.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502160000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502160000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021600.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502170000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502170000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021700.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502180000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502180000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021800.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502190000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502190000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025021900.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502200000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502200000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502210000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502210000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022100.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502220000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502220000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022200.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502230000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502230000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022300.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502240000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502240000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022400.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502250000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502250000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022500.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502260000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502260000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022600.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502270000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502270000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025022700.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502280000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202502280000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503010000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503010000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503020000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503020000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503040000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503040000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025030400.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503050000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503050000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503060000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503060000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025030600.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503070000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503070000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503080000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503080000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503090000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503090000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503100000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503100000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503110000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503110000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503120000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503120000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503130000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503130000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025031300.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503140000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503140000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025031400.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503150000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503150000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503160000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025031600.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503170000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503170000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503180000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503180000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503190000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503190000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025031900.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503200000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503200000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503210000.bfh,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_202503210000.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96509_2025032100.bfr,96509,WAQQ_Stasiun Meteorologi Juwata,Dikenali
+D96581_2025030400IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025030500IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025030600IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025030800IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025030900IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025031000IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025031100IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025031200IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025031300IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025031700IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025031800IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025031900IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025032000IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96581_2025032100IUSG.BIN,96581,WIOO_Stasiun Meteorologi Supadio,Dikenali
+D96633_2025030400IUKG.BIN,96633,WALL_Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan,Dikenali
+D96633_2025030400IUSG.BIN,96633,WALL_Stasiun Meteorologi Sultan Aji Muhammad Sulaiman Sepinggan,Dikenali
+D96645_202501180000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501180000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501181200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501181200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501190000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501190000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501191200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501191200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501200000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501200000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501201200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501201200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501210000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501210000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501211200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501211200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501220000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501220000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501221200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501221200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501230000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501230000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501231200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501231200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501240000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501240000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501241200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501241200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501250000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501250000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501251200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501251200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501260000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501260000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501261200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501261200.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501270000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501270000.bufr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501271200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501271200.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501280000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501280000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501281200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501281200.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501290000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501290000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501291200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501291200.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501300000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501300000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501301200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501301200.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501310000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501310000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501311200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202501311200.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502010000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502010000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502011200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502011200.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502020000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502020000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502021200.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502021200.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502030000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502030000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502040000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502040000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502050000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502050000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502060000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502060000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502070000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502070000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502090000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502090000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502100000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502100000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502110000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502110000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502120000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502120000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502130000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502130000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502140000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502140000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502150000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502150000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502160000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502160000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502170000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502170000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502180000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502180000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502190000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502190000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502200000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502200000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502210000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502210000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502220000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502220000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502230000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502230000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502240000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502240000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502250000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502250000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502260000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502260000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502270000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502270000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502280000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202502280000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503010000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503010000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503030000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503030000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503040000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503040000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503050000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503050000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503060000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503060000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503070000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503070000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503080000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503080000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503090000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503090000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503100000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503100000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503110000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503110000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503120000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503120000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503130000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503130000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503140000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503140000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503150000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503150000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503160000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503160000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503170000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503170000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503180000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503180000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503190000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503190000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503200000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503200000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503210000.bfh,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96645_202503210000.bfr,96645,WAGI_Stasiun Meteorologi Iskandar,Dikenali
+D96685_2025030400IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030500IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030500IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030600IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030600IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030800IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030800IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030900IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025030900IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031000IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031000IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031100IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031100IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031300IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031300IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031400IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031400IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031600IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031600IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031800IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031800IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031900IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025031900IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025032000IUKG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96685_2025032000IUSG.BIN,96685,WAOO_Stasiun Meteorologi Syamsudin Noor,Dikenali
+D96749_2024120300.bin,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010100IUKG.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010100IUSG.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010200IUKG.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010200IUSG.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010500IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010500IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010512IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010512IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010600IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010600IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010612IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010700IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010700IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010712IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025010712IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025011700IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025011700IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025011712IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025011800IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025011800IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025011812IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025011812IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025012000IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025012000IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025020200IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025020200IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025021400IUKK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96749_2025021400IUSK.BIN,96749,WIII_Stasiun Meteorologi Soekarno Hatta,Dikenali
+D96805_202501180000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501180000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501180000.I,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501181200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501181200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501190000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501190000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501191200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501191200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501200000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501200000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501201200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501201200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501210000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501210000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501211200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501211200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501220000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501220000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501221200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501221200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501230000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501230000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501231200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501231200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501240000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501240000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501241200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501241200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501250000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501250000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501251200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501251200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501260000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501260000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501261200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501261200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501270000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501270000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501271200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501271200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501280000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501280000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501281200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501281200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501290000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501290000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501291200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501291200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501300000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501300000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501301200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501301200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501310000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202501310000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502010000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502010000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502011200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502011200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502020000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502020000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502021200.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502021200.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502030000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502030000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502040000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502040000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502050000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502050000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502060000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502060000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502070000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502070000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502080000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502080000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502090000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502090000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502100000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502100000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502110000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502110000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502120000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502120000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502130000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502130000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502140000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502140000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502150000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502150000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502160000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502160000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502170000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502170000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502180000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502180000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502190000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502190000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502200000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502200000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502210000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502210000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502220000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502220000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502230000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502230000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502240000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502240000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502250000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502250000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502260000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502260000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502270000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502270000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502280000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202502280000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503010000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503010000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503020000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503020000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503030000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503030000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503040000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503040000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503050000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503050000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503060000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503060000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503070000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503070000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503080000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503080000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503090000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503090000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503100000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503100000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503110000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503110000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503120000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503120000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503130000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503130000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503150000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503150000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503160000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503160000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503170000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503170000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503180000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503180000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503190000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503190000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503200000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503200000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503210000.bfh,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96805_202503210000.bfr,96805,WIIL_Stasiun Meteorologi Tunggul Wulung,Dikenali
+D96935_2025030400IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030400IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030500IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030500IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030600IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030600IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030700IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030700IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030800IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030800IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030900IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025030900IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031100IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031100IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031200IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031200IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031600IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031600IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031700IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031700IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031900IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025031900IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025032000IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025032000IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025032100IUKG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D96935_2025032100IUSG.BIN,96935,WARR_Stasiun Meteorologi Juanda,Dikenali
+D97014_2025030500IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025030500IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025030700IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025030700IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025030800IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025030800IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031000IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031000IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031100IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031100IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031200IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031200IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031400IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031600IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031600IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031800IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031800IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031900IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025031900IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025032000IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025032000IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025032100IUKG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97014_2025032100IUSG.BIN,97014,WAMM_Stasiun Meteorologi Sam Ratulangi,Dikenali
+D97072_2025030800IUSG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025030900IUKG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025030900IUSG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031100IUKG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031100IUSG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031300IUKG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031300IUSG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031400IUKG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031400IUSG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031800IUKG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025031800IUSG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97072_2025032000IUKG.BIN,97072,WAFF_Stasiun Meteorologi Mutiara Sis-Al Jufri,Dikenali
+D97180_2025030400IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025030400IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025030500IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025030500IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025030700IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025030800IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025030800IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031100IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031300IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031300IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031400IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031400IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031600IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031600IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031700IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031700IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031712IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031900IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025031900IUSG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97180_2025032000IUKG.BIN,97180,WAAA_Stasiun Meteorologi Sultan Hasanuddin,Dikenali
+D97230_2025032000IUKG.BIN,97230,WADD_Stasiun Meteorologi I Gusti Ngurah Rai,Dikenali
+D97230_2025032000IUSG.BIN,97230,WADD_Stasiun Meteorologi I Gusti Ngurah Rai,Dikenali
+D97300_2025030500IUKG.BIN,97300,WATC_Stasiun Meteorologi Fransiskus Xaverius Seda,Dikenali
+D97300_2025030500IUSG.BIN,97300,WATC_Stasiun Meteorologi Fransiskus Xaverius Seda,Dikenali
+D97300_2025031200IUKG.BIN,97300,WATC_Stasiun Meteorologi Fransiskus Xaverius Seda,Dikenali
+D97300_2025031200IUSG.BIN,97300,WATC_Stasiun Meteorologi Fransiskus Xaverius Seda,Dikenali
+D97300_2025031900IUKG.BIN,97300,WATC_Stasiun Meteorologi Fransiskus Xaverius Seda,Dikenali
+D97300_2025031900IUSG.BIN,97300,WATC_Stasiun Meteorologi Fransiskus Xaverius Seda,Dikenali
+D97372_2025030400IUKG.BIN,97372,WATT_Stasiun Meteorologi Eltari,Dikenali
+D97372_2025030400IUSG.BIN,97372,WATT_Stasiun Meteorologi Eltari,Dikenali
+D97372_2025030700IUKG.BIN,97372,WATT_Stasiun Meteorologi Eltari,Dikenali
+D97372_2025030700IUSG.BIN,97372,WATT_Stasiun Meteorologi Eltari,Dikenali
+D97372_2025030900IUKG.BIN,97372,WATT_Stasiun Meteorologi Eltari,Dikenali
+D97372_2025030900IUSG.BIN,97372,WATT_Stasiun Meteorologi Eltari,Dikenali
+D97502_202501180000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501180000.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501181200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501181200.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501190000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501190000.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501191200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501191200.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501200000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501200000.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501201200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501201200.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501210000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501210000.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501211200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501211200.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501220000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501220000.bufr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501221200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501221200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501230000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501230000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501231200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501231200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501240000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501240000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501241200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501241200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501250000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501250000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501251200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501251200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501260000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501260000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501261200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501261200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501270000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501270000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501271200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501271200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501280000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501280000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501281200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501281200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501290000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501290000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501291200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501291200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501300000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501300000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501301200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501301200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501310000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501310000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501311200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202501311200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502010000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502010000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502011200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502020000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502020000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502021200.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502021200.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502030000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502030000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502040000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502040000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502050000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502050000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502060000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502060000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502070000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502070000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502080000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502080000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502090000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502090000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502100000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502100000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502110000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502110000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502120000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502120000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502130000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502130000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502140000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502140000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502150000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502150000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502160000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502160000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502170000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502170000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502180000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502180000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502190000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502190000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502200000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502200000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502210000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502210000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502220000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502220000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502230000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502230000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502240000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502240000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502250000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502250000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502260000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502260000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502270000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502270000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502280000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202502280000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503010000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503010000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503020000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503020000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503030000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503030000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503040000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503040000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503050000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503050000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503060000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503060000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503070000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503070000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503080000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503080000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503090000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503090000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503100000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503100000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503110000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503110000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503120000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503120000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503130000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503130000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503140000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503140000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503150000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503150000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503160000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503160000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503170000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503170000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503180000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503180000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503190000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503190000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503200000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503200000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503210000.bfh,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97502_202503210000.bfr,97502,WASS_Stasiun Meteorologi Domine Eduard Osok,Dikenali
+D97560_2025030400IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030400IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030500IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030500IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030600IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030600IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030700IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030700IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030800IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030800IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030900IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025030900IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031000IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031000IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031100IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031100IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031200IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031200IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031300IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031300IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031600IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031600IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031700IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031700IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031800IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031800IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025031900IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025032000IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025032000IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025032100IUKG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97560_2025032100IUSG.BIN,97560,WABB_Stasiun Meteorologi Frans Kaisiepo,Dikenali
+D97690_2025030400IUKG.BIN,97690,WAJJ_Stasiun Meteorologi Sentani,Dikenali
+D97690_2025030400IUSG.BIN,97690,WAJJ_Stasiun Meteorologi Sentani,Dikenali
+D97724_2025030700IUKG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97724_2025030700IUSG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97724_2025031100IUKG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97724_2025031100IUSG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97724_2025031500IUKG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97724_2025031500IUSG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97724_2025031900IUKG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97724_2025031900IUSG.BIN,97724,WAPP_Stasiun Meteorologi Pattimura,Dikenali
+D97890_2025030600IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025030600IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025030700IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025030700IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025030800IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025030800IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025030900IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025030900IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025031000IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025031200IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025031200IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025031300IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025031300IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025031400IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025031400IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025031500IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025031500IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025031600IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025031600IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025031700IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025031700IUSG.BIN,97890,,Tidak Dikenali
+D97890_2025032100IUKG.BIN,97890,,Tidak Dikenali
+D97890_2025032100IUSG.BIN,97890,,Tidak Dikenali
+D97900_2025030400IUKG.BIN,97900,WAPS_Stasiun Meteorologi Mathilda Batlayeri,Dikenali
+D97900_2025030500IUKG.BIN,97900,WAPS_Stasiun Meteorologi Mathilda Batlayeri,Dikenali
+D97900_2025030500IUSG.BIN,97900,WAPS_Stasiun Meteorologi Mathilda Batlayeri,Dikenali
+D97900_2025030600IUKG.BIN,97900,WAPS_Stasiun Meteorologi Mathilda Batlayeri,Dikenali
+D97900_2025030600IUSG.BIN,97900,WAPS_Stasiun Meteorologi Mathilda Batlayeri,Dikenali
+PA2025011500_1.bfh,,,Format Tidak Dikenali
+PA2025011512_1.bfh,,,Format Tidak Dikenali
+PA2025011512_2.bfh,,,Format Tidak Dikenali
+PA2025011600_1.bfh,,,Format Tidak Dikenali
+PA2025011612_2.bfh,,,Format Tidak Dikenali
+PA2025011700_1.bfh,,,Format Tidak Dikenali
+PA2025011712_1.bfh,,,Format Tidak Dikenali
+PA2025011800_1.bfh,,,Format Tidak Dikenali
+RA2025011600_1.bfh,,,Format Tidak Dikenali
+RA2025011612_1.bfh,,,Format Tidak Dikenali
+RA2025011700_1.bfh,,,Format Tidak Dikenali
+RA2025011712_1.bfh,,,Format Tidak Dikenali
+RA2025011800_1.bfh,,,Format Tidak Dikenali
+RA2025011900_1.bfh,,,Format Tidak Dikenali
+RA2025011900_1.bfr,,,Format Tidak Dikenali
+RA2025011900_1.ppp,,,Format Tidak Dikenali
+RA2025011900_1.ttt,,,Format Tidak Dikenali
+SO2025011500_1.bfh,,,Format Tidak Dikenali
+SO2025011512_1.bfh,,,Format Tidak Dikenali
+SO2025011600_1.bfh,,,Format Tidak Dikenali
+SO2025011612_1.bfh,,,Format Tidak Dikenali
+SO2025011700_1.bfh,,,Format Tidak Dikenali
+SO2025011712_1.bfh,,,Format Tidak Dikenali
+SO2025011800_1.bfh,,,Format Tidak Dikenali
+TA2025011500_1.bfh,,,Format Tidak Dikenali
+TA2025011512_1.bfh,,,Format Tidak Dikenali
+TA2025011600_1.bfh,,,Format Tidak Dikenali
+TA2025011612_1.bfh,,,Format Tidak Dikenali
+TA2025011700_1.bfh,,,Format Tidak Dikenali
+TA2025011712_1.bfh,,,Format Tidak Dikenali
+TA2025011800_1.bfh,,,Format Tidak Dikenali

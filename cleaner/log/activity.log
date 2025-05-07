@@ -1,0 +1,125 @@
+2023-10-11 12:55:21.658 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 12:55:21.659 | INFO     | __main__:<module>:28 - Cleaner start
+2023-10-11 12:55:21.659 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 23-09-27 12:55:21+00:00
+2023-10-11 12:55:21.659 | ERROR    | dbhandler:general_no_data:132 - syntax error at or near "12"
+LINE 1: DELETE FROM coba WHERE ts_data_utc <= 23-09-27 12:55:21+00:0...
+                                                       ^
+
+2023-10-11 12:55:21.659 | ERROR    | __main__:clean_data:25 - Database fail to clear for 23-09-27 12:55:21+00:00 : 
+2023-10-11 12:55:21.660 | INFO     | __main__:<module>:30 - Cleaner stop
+2023-10-11 12:55:21.660 | INFO     | dbhandler:close:136 - Database connection closed
+2023-10-11 12:55:56.909 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 12:55:56.909 | INFO     | __main__:<module>:28 - Cleaner start
+2023-10-11 12:55:56.910 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 23-09-27 12:55:56+00:00
+2023-10-11 12:55:56.910 | ERROR    | dbhandler:general_no_data:132 - date/time field value out of range: "23-09-27 12:55:56+00:00"
+LINE 1: DELETE FROM coba WHERE ts_data_utc <= '23-09-27 12:55:56+00:...
+                                              ^
+HINT:  Perhaps you need a different "datestyle" setting.
+
+2023-10-11 12:55:56.911 | ERROR    | __main__:clean_data:25 - Database fail to clear for 23-09-27 12:55:56+00:00 : 
+2023-10-11 12:55:56.911 | INFO     | __main__:<module>:30 - Cleaner stop
+2023-10-11 12:55:56.911 | INFO     | dbhandler:close:136 - Database connection closed
+2023-10-11 12:56:32.402 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 12:56:32.402 | INFO     | __main__:<module>:28 - Cleaner start
+2023-10-11 12:56:32.403 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 12:56:32+00:00
+2023-10-11 12:56:32.406 | INFO     | dbquery:delete_before:24 - Content manvis cleared
+2023-10-11 12:56:32.406 | INFO     | __main__:clean_data:21 - Database cleared for 2023-09-27 12:56:32+00:00
+2023-10-11 12:56:32.406 | INFO     | __main__:<module>:30 - Cleaner stop
+2023-10-11 12:56:32.407 | INFO     | dbhandler:close:136 - Database connection closed
+2023-10-11 13:24:46.421 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 13:24:46.422 | INFO     | __main__:<module>:66 - Cleaner start
+2023-10-11 13:24:46.422 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 13:24:46+00:00
+2023-10-11 13:24:46.425 | INFO     | dbquery:delete_before:24 - Content manvis cleared
+2023-10-11 13:24:46.425 | INFO     | __main__:clean_database:59 - Database cleared for 2023-09-27 13:24:46+00:00
+2023-10-11 13:24:46.426 | ERROR    | __main__:clean_data:51 - Fail to archive : FTP_RECV_DIR not found. Declare it as envvar or define a default value.
+2023-10-11 13:24:46.427 | INFO     | __main__:<module>:70 - Cleaner stop
+2023-10-11 13:24:46.427 | INFO     | dbhandler:close:136 - Database connection closed
+2023-10-11 13:25:34.473 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 13:25:34.473 | INFO     | __main__:<module>:66 - Cleaner start
+2023-10-11 13:25:34.473 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 13:25:34+00:00
+2023-10-11 13:25:34.474 | ERROR    | __main__:clean_database:63 - Database fail to clear for 2023-09-27 13:25:34+00:00 : 
+2023-10-11 13:25:34.620 | INFO     | __main__:clean_data:37 - Archive data for 202309271325
+2023-10-11 13:25:35.227 | INFO     | __main__:clean_data:44 - Archive created: /data/digi/archived/archive_before_202309271325.tar.gz
+2023-10-11 13:25:35.227 | INFO     | __main__:clean_data:46 - Removing data for 202309271325
+2023-10-11 13:26:34.978 | INFO     | __main__:<module>:70 - Cleaner stop
+2023-10-11 13:26:34.978 | INFO     | dbhandler:close:136 - Database connection closed
+2023-10-11 15:01:43.430 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 15:01:43.431 | INFO     | __main__:<module>:66 - Cleaner start
+2023-10-11 15:01:43.431 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 15:01:43+00:00
+2023-10-11 15:01:43.433 | INFO     | dbquery:delete_before:24 - Content manvis cleared
+2023-10-11 15:01:43.434 | INFO     | __main__:clean_database:59 - Database cleared for 2023-09-27 15:01:43+00:00
+2023-10-11 15:01:43.444 | INFO     | __main__:clean_data:37 - Archive data for 202309271501
+2023-10-11 15:01:44.026 | INFO     | __main__:clean_data:44 - Archive created: /data/digi/archived/archive_before_202309271501.tar.gz
+2023-10-11 15:01:44.027 | INFO     | __main__:clean_data:46 - Removing data for 202309271501
+2023-10-11 15:01:47.426 | INFO     | __main__:<module>:70 - Cleaner stop
+2023-10-11 15:01:47.427 | INFO     | dbhandler:close:136 - Database connection closed
+2023-10-11 15:04:47.205 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 15:04:47.205 | INFO     | __main__:<module>:66 - Cleaner start
+2023-10-11 15:04:47.206 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 15:04:47+00:00
+2023-10-11 15:04:47.207 | ERROR    | __main__:clean_database:63 - Database fail to clear for 2023-09-27 15:04:47+00:00 : 
+2023-10-11 15:04:47.217 | INFO     | __main__:clean_data:37 - Archive data for 202309271504
+2023-10-11 15:04:47.815 | INFO     | __main__:clean_data:44 - Archive created: /data/digi/archived/archive_before_202309271504.tar.gz
+2023-10-11 15:04:47.815 | INFO     | __main__:clean_data:46 - Removing data for 202309271504
+2023-10-11 15:04:50.582 | INFO     | __main__:<module>:70 - Cleaner stop
+2023-10-11 15:04:50.582 | INFO     | dbhandler:close:136 - Database connection closed
+2023-10-11 15:14:24.455 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 15:14:24.456 | INFO     | __main__:<module>:69 - Cleaner start
+2023-10-11 15:14:24.456 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 15:14:24+00:00
+2023-10-11 15:14:24.494 | INFO     | dbquery:delete_before:24 - 2622 Content manvis cleared
+2023-10-11 15:14:24.504 | INFO     | dbquery:delete_before:31 - 501 Content mmi cleared
+2023-10-11 15:14:24.561 | INFO     | dbquery:delete_before:38 - 2642 Content synop cleared
+2023-10-11 15:14:24.561 | INFO     | __main__:clean_database:62 - Database cleared for 2023-09-27 15:14:24+00:00
+2023-10-11 15:14:24.565 | INFO     | __main__:clean_data:36 - Archive data for 202309271514
+2023-10-11 15:14:24.566 | INFO     | __main__:clean_data:43 - Archive created: /data/digi/archived/archive_before_202309271514.tar.gz
+2023-10-11 15:14:24.566 | INFO     | __main__:clean_data:45 - Removing data for 202309271514
+2023-10-11 15:14:24.566 | INFO     | __main__:clean_data:52 - 0 Data Removed
+2023-10-11 15:14:24.566 | INFO     | __main__:<module>:73 - Cleaner stop
+2023-10-11 15:14:24.566 | INFO     | dbhandler:close:141 - Database connection closed
+2023-10-11 15:14:42.118 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 15:14:42.118 | INFO     | __main__:<module>:69 - Cleaner start
+2023-10-11 15:14:42.118 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 15:14:42+00:00
+2023-10-11 15:14:42.124 | INFO     | dbquery:delete_before:24 - 0 Content manvis cleared
+2023-10-11 15:14:42.126 | INFO     | dbquery:delete_before:31 - 0 Content mmi cleared
+2023-10-11 15:14:42.129 | INFO     | dbquery:delete_before:38 - 0 Content synop cleared
+2023-10-11 15:14:42.129 | INFO     | __main__:clean_database:62 - Database cleared for 2023-09-27 15:14:42+00:00
+2023-10-11 15:14:42.132 | INFO     | __main__:clean_data:36 - Archive data for 202309271514
+2023-10-11 15:14:42.133 | INFO     | __main__:clean_data:43 - Archive created: /data/digi/archived/archive_before_202309271514.tar.gz
+2023-10-11 15:14:42.133 | INFO     | __main__:clean_data:45 - Removing data for 202309271514
+2023-10-11 15:14:42.133 | INFO     | __main__:clean_data:52 - 0 Data Removed
+2023-10-11 15:14:42.133 | INFO     | __main__:<module>:73 - Cleaner stop
+2023-10-11 15:14:42.134 | INFO     | dbhandler:close:141 - Database connection closed
+2023-10-11 15:26:41.488 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 15:26:41.489 | INFO     | __main__:<module>:73 - Cleaner start
+2023-10-11 15:26:41.489 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 15:26:41+00:00
+2023-10-11 15:26:41.491 | INFO     | dbquery:delete_before:24 - 0 Content manvis cleared
+2023-10-11 15:26:41.496 | INFO     | dbquery:delete_before:31 - 12 Content mmi cleared
+2023-10-11 15:26:41.498 | INFO     | dbquery:delete_before:38 - 0 Content synop cleared
+2023-10-11 15:26:41.498 | INFO     | __main__:clean_database:66 - Database cleared for 2023-09-27 15:26:41+00:00
+2023-10-11 15:26:41.501 | INFO     | __main__:clean_data:36 - Archive data for 202309271526
+2023-10-11 15:26:41.501 | INFO     | __main__:clean_data:47 - No files to archived
+2023-10-11 15:26:41.501 | INFO     | __main__:clean_data:49 - Removing data for 202309271526
+2023-10-11 15:26:41.501 | INFO     | __main__:clean_data:56 - 0 Data Removed
+2023-10-11 15:26:41.501 | INFO     | __main__:<module>:77 - Cleaner stop
+2023-10-11 15:26:41.502 | INFO     | dbhandler:close:141 - Database connection closed
+2023-10-11 15:28:33.259 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 15:28:33.259 | INFO     | __main__:<module>:74 - Cleaner start
+2023-10-11 15:28:33.259 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 15:28:33+00:00
+2023-10-11 15:28:33.261 | INFO     | dbquery:delete_before:24 - 0 Content manvis cleared
+2023-10-11 15:28:33.266 | INFO     | dbquery:delete_before:31 - 2 Content mmi cleared
+2023-10-11 15:28:33.267 | INFO     | dbquery:delete_before:38 - 0 Content synop cleared
+2023-10-11 15:28:33.268 | INFO     | __main__:clean_database:67 - Database cleared for 2023-09-27 15:28:33+00:00
+2023-10-11 15:28:33.271 | INFO     | __main__:clean_data:36 - Archiving data for 202309271528
+2023-10-11 15:28:33.271 | INFO     | __main__:clean_data:38 - No files to archived
+2023-10-11 15:28:33.271 | INFO     | __main__:<module>:78 - Cleaner stop
+2023-10-11 15:28:33.271 | INFO     | dbhandler:close:141 - Database connection closed
+2023-10-11 15:38:28.618 | INFO     | dbquery:init_db:15 - Database connection successful
+2023-10-11 15:38:28.619 | INFO     | __main__:<module>:74 - Cleaner start
+2023-10-11 15:38:28.619 | INFO     | dbquery:delete_before:19 - Deleting data in all table before : 2023-09-27 15:38:28+00:00
+2023-10-11 15:38:28.621 | INFO     | dbquery:delete_before:24 - 0 Content manvis cleared
+2023-10-11 15:38:28.623 | INFO     | dbquery:delete_before:31 - 0 Content mmi cleared
+2023-10-11 15:38:28.625 | INFO     | dbquery:delete_before:38 - 0 Content synop cleared
+2023-10-11 15:38:28.625 | INFO     | __main__:clean_database:67 - Database cleared for 2023-09-27 15:38:28+00:00
+2023-10-11 15:38:28.628 | INFO     | __main__:clean_data:36 - Archiving data for 202309271538
+2023-10-11 15:38:28.628 | INFO     | __main__:clean_data:38 - No files to archived
+2023-10-11 15:38:28.628 | INFO     | __main__:<module>:78 - Cleaner stop
+2023-10-11 15:38:28.629 | INFO     | dbhandler:close:141 - Database connection closed
