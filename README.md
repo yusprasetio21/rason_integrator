@@ -1,7 +1,7 @@
 # rason_integrator
 sistem integrasi data rason yang dikirimkan dari aplikasi rason ke server vm collecting
 alur pada sistem: 
-docker ps a
+docker ps -a
 - ftp-receiver-rason
 - bmkgsatu-sender-rason
 - rason-forwarder-ascii
@@ -19,21 +19,21 @@ maka akan diproses oleh - rason-forwarder-ascii  dan  rason-forwarder-binary
 cara menjalankan script dengan docker compose
 cd rason_integrator/
 
-docker compose build
-docker compose up
-docker compose down
+- docker compose build
+- docker compose up
+- docker compose down
 
 # cara menjalakan per service
-docker compose stop awos-forwarder
-docker compose start awos-forwarder
+- docker compose stop awos-forwarder
+- docker compose start awos-forwarder
 
 # edit script 
-docker compose build ftp-receiver-rason
-docker compose down && docker compose up
+- docker compose build ftp-receiver-rason
+- docker compose down && docker compose up
 
 
 # cek logs 
-docker compose logs ftp-receiver-rason
-docker compose logs bmkgsatu-sender
+- docker compose logs ftp-receiver-rason
+- docker compose logs bmkgsatu-sender
 docker compose logs rason-forwarder-
 docker compose logs rason-forwarder-ascii
